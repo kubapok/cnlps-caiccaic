@@ -13,7 +13,7 @@ The goal of this competition is to develop Natural Language Understanding models
 
 The approach used to prepare data for the challenge is meant to promote models robust to various types of errors in the input, making it impossible to solve the task by simply learning a shallow mapping from incorrectly recognized words to the correct ones. This reflects real-world scenarios where the NLU system is presented with inputs that exhibit various disturbances due to changes in the ASR model, acoustic conditions, speaker variation, and other causes.
 
-[<img src="https://raw.githubusercontent.com/kubapok/cnlps-caiccaic/master/diagram.png">](https://raw.githubusercontent.com/kubapok/cnlps-caiccaic)
+[<img src="https://raw.githubusercontent.com/kubapok/cnlps-caiccaic/master/diagram_usage.png">](https://raw.githubusercontent.com/kubapok/cnlps-caiccaic)
 
 ## Dates
 
@@ -31,7 +31,7 @@ The approach used to prepare data for the challenge is meant to promote models r
 
 The training set is derived from [Leyzer: A Dataset for Multilingual Assistants](https://github.com/cartesinus/leyzer). It consists of user utterances along with the semantic representation of the commands targeted at a virtual assistant. A fraction of the utterances in the training set is contaminated with speech recognition errors; however, to make the task more challenging, we left the majority of the utterances intact. The erroneous samples were obtained from user utterances using a TTS model followed by an ASR system.
 
-<img src="https://git.wmi.amu.edu.pl/kubapok/cnlps-caiccaic/raw/branch/master/diagram_dataset.png">
+<img src="https://raw.githubusercontent.com/kubapok/cnlps-caiccaic/master/diagram_dataset.png">
 
 The training data are located in the `train` directory of the `cnlps-caiccaic` repository. The `train` directory contains two files:
 
