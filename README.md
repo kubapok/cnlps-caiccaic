@@ -13,7 +13,7 @@ The goal of this competition is to develop Natural Language Understanding models
 
 The approach used to prepare data for the challenge is meant to promote models robust to various types of errors in the input, making it impossible to solve the task by simply learning a shallow mapping from incorrectly recognized words to the correct ones. This reflects real-world scenarios where the NLU system is presented with inputs that exhibit various disturbances due to changes in the ASR model, acoustic conditions, speaker variation, and other causes.
 
-[<img src="https://raw.githubusercontent.com/kubapok/cnlps-caiccaic/master/diagram_usage.png">](https://raw.githubusercontent.com/kubapok/cnlps-caiccaic)
+<img src="https://raw.githubusercontent.com/kubapok/cnlps-caiccaic/master/diagram_usage.png">
 
 ## Dates
 
