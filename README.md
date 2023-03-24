@@ -96,7 +96,7 @@ The test set prepared for the final evaluation will be released on May 17, 2023,
 
  7. To be included in the final ranking, a team should provide a report describing their solution.
 
- 8. The report should conform to the requirements specified in the exemplary document provided at <https://git.wmi.amu.edu.pl/kubapok/cnlps-caiccaic/src/branch/master/cnlps-report-example.pdf>.
+ 8. The report should conform to the requirements specified in the exemplary document provided at <https://github.com/kubapok/cnlps-caiccaic/blob/master/cnlps-report-example.pdf>.
 
  9. The best scoring submission on `test-B` for which a report is provided wins.
 
