@@ -70,6 +70,21 @@ The test set prepared for the final evaluation will be released on May 17, 2023,
 |Intents     | 193         | 193        |
 |Slots types | 80          | 79         |
 
+## Baseline
+
+We use XLM-RoBERTa Base as a baseline model for intent detection and slot-filling. XLM-RoBERTa is a multilingual version of RoBERTa. It is pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages. Each model was trained independently on the entire training set and optimized on the evaluation set. Results of the evaluation of the final epoch checkpoint on the test set are presented in the table below:
+
+| Language | Intent Accuracy (%) | Slot F1 (%) |
+|----------|---------------------|-------------|
+| en-US    | 90.40               | 78.77       |
+| es-ES    | 97.07               | 96.91       |
+| pl-PL    | 95.94               | 96.02       |
+| all      | 95.04               | -           |
+
+All models are available at huggingface where all details of model training and how to execute them are described:
+- intent: [en-US](cartesinus/fedcsis-intent_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-pl), [all](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-all)
+- slot: [en-US](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-pl)
+
 ## Submissions
 
   - The solutions for the task are to be submitted via the Gonito platform challenge available at <https://gonito.csi.wmi.amu.edu.pl/challenge/cnlps-caiccaic>.
