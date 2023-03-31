@@ -82,7 +82,7 @@ We use XLM-RoBERTa Base as a baseline model for intent detection and slot-fillin
 | all      | 95.04               | -           |
 
 All models are available at huggingface where all details of model training and how to execute them are described:
-- intent: [en-US](cartesinus/fedcsis-intent_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-pl), [all](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-all)
+- intent: [en-US](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-pl), [all](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-all)
 - slot: [en-US](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-pl)
 
 ## Submissions
