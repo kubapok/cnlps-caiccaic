@@ -1,1 +1,12 @@
---metric Accuracy:N<Exact>N<Match>N<Accuracy> --metric Accuracy:m<^[^\t]+\t>N<Domain>N<accuracy> --metric Accuracy:m<\t[^\t]+\t>N<Intent>N<accuracy> --metric WAR:m<\t[^\t]+$>N<Slot>N<WRR> --in-header in-header.tsv --out-header out-header.tsv
+--metric Accuracy:m<\t[^\t]+\t[^\t]+$>N<Exact>N<Match>N<Accuracy>
+--metric Accuracy:m<\t[^\t]+\t>N<Intent>N<accuracy>
+--metric WAR:m<\t[^\t]+$>N<Slot>N<WRR>
+--metric Accuracy:f<in[2]:en-US>m<\t[^\t]+\t[^\t]+$>N<en-US>N<Exact>N<Match>N<Accuracy>
+--metric Accuracy:f<in[2]:en-US>m<\t[^\t]+\t>N<en-US>N<Intent>N<accuracy>
+--metric WAR:f<in[2]:en-US>m<\t[^\t]+$>N<en-US>N<Slot>N<WRR>
+--metric Accuracy:f<in[2]:es-ES>m<\t[^\t]+\t[^\t]+$>N<es-ES>N<Exact>N<Match>N<Accuracy>
+--metric Accuracy:f<in[2]:es-ES>m<\t[^\t]+\t>N<es-ES>N<Intent>N<accuracy>
+--metric WAR:f<in[2]:es-ES>m<\t[^\t]+$>N<es-ES>N<Slot>N<WRR>
+--metric Accuracy:m<\t[^\t]+\t[^\t]+$>f<in[2]:pl-PL>N<pl-PL>N<Exact>N<Match>N<Accuracy>
+--metric Accuracy:f<in[2]:pl-PL>m<\t[^\t]+\t>N<pl-PL>N<Intent>N<accuracy>
+--metric WAR:f<in[2]:pl-PL>m<\t[^\t]+$>N<pl-PL>N<Slot>N<WRR>
