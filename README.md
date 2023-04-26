@@ -60,15 +60,17 @@ It contains only input values, while expected values hidden for contestants and 
 
 The test set prepared for the final evaluation will be released on May 17, 2023, and placed in the `test-B` directory of the `cnlps-caiccaic` repository. The goal of the task is to develop NLU models that are robust to speech recognition errors regardless of their type and origin, therefore participants **should not** assume that the same TTS and ASR models will be used for the preparation of the test data as for the preparation of the training data. Also, the ratio of utterances containing speech recognition errors to intact utterances will vary, with far more erroneous samples found in the test set.
 
-|            | Train       | Test       |
-|------------|-------------|------------|
-|Sentences   | 14524       | 3633       |
-|Avg length  | 9.35        | 9.28       |
-|Min length  | 1           | 1          |
-|Max length  | 33          | 30         |
-|Domains     | 21          | 21         |
-|Intents     | 193         | 193        |
-|Slots types | 80          | 79         |
+| Locale | split |utterances | mean length | length std | min | 50% | max |
+|:-------|-------|----------:|------------:|-----------:|----:|----:|----:|
+| en-US  | test  |   3344    |  9.95066    | 4.32209    |   1 |  9  |  33 |
+| en-US  | train |  13022    |  9.34511    | 3.7176     |   1 |  9  |  33 |
+| en-US  | valid |   3633    |  9.28103    | 3.79942    |   1 |  9  |  30 |
+| es-ES  | test  |   3520    | 13.2136     | 6.11027    |   1 | 12  |  36 |
+| es-ES  | train |  15043    | 13.3689     | 6.0222     |   1 | 12  |  39 |
+| es-ES  | valid |   3546    | 13.1523     | 5.94796    |   1 | 12  |  39 |
+| pl-PL  | test  |   3494    |  8.9273     | 3.05946    |   1 |  9  |  22 |
+| pl-PL  | train |  12753    |  8.97224    | 3.02764    |   1 |  9  |  26 |
+| pl-PL  | valid |   3498    |  9.01801    | 3.05389    |   1 |  9  |  23 |
 
 ## Baseline
 
@@ -84,6 +86,8 @@ We use XLM-RoBERTa Base as a baseline model for intent detection and slot-fillin
 All models are available at huggingface where all details of model training and how to execute them are described:
 - intent: [en-US](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-pl), [all](https://huggingface.co/cartesinus/fedcsis-intent_baseline-xlm_r-all)
 - slot: [en-US](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-en), [es-ES](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-es), [pl-PL](https://huggingface.co/cartesinus/fedcsis-slot_baseline-xlm_r-pl)
+
+Baseline is also submitted to Gonito platform where detailed results can be found: <https://gonito.net/view-variant/8893>
 
 ## Submissions
 
@@ -140,6 +144,15 @@ Besides EMA scores, we will also report the following auxiliary metrics:
     > Word Recognition Rate calculated on slot annotations which is the percentage of correctly annotated slot values.
 
 
+Leaderboard with results of all submissions is available at Gonito platform:
+ - https://gonito.csi.wmi.amu.edu.pl/challenge/cnlps-caiccaic/leaderboard (new interface)
+ - https://gonito.net/challenge/cnlps-caiccaic (old interface, more functionality)
+
+You can also easily evaluate your results locally using [Geval](https://gitlab.com/filipg/geval/) tool and provided `config.txt` file.<br>
+To do so, [get geval executable](https://gitlab.com/filipg/geval/#the-easy-way-just-download-the-fully-static-geval-binary) and run it in the challenge directory. You will get all the metrics calculated and printed to stdout.
+
+
+
 ## Organizing Committee
 
 -  Marek Kubis, Adam Mickiewicz University, Poland
@@ -147,4 +160,9 @@ Besides EMA scores, we will also report the following auxiliary metrics:
 -  Marcin Sowański, Samsung Research Poland
 -  Tomasz Ziętkiewicz, Samsung Research Poland
 
-We set up a “CNLPS” Discord server to discuss the CAICCAIC challenge. Please join it to ask any task-related questions: https://discord.gg/VvjHhh7rbF
+
+## NEWS
+
+For news regarding dataset updates, baseline results and other changes, please join “CNLPS” Discord server: <https://discord.gg/VvjHhh7rbF>.
+
+It is also the place to ask questions about the challenge and usage of the Gonito platform.
