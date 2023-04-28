@@ -121,7 +121,9 @@ Baseline is also submitted to Gonito platform where detailed results can be foun
 
 ## Special session at FedCSIS 2023:
 
-The authors of selected submissions will be invited to prepare the extended versions of their reports for publication in the conference proceedings and presentation at FedCSIS 2023. The Organizing Committee will make the selection based on the final evaluation results, the quality of submitted reports, and the originality of the presented methods.
+The authors of selected submissions will be invited to prepare the extended versions of their reports for publication in the conference proceedings and presentation at FedCSIS 2023. The Organizing Committee will make the selection based on the final evaluation results, the quality of submitted reports, and the originality of the presented methods. The papers will be indexed by the IEEE Digital Library and Web of Science (70 points MEiN- info for polish scientists).
+
+
 
 ## Evaluation
 
