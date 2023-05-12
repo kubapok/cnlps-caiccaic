@@ -23,7 +23,7 @@ The approach used to prepare data for the challenge is meant to promote models r
 - May  31, 2023: Deadline for submitting the results
 - June 04, 2023: Announcement of the final results, sending invitations for submitting papers
 - July 09, 2023: Deadline for submitting invited papers
-- July 11, 2023: Author notification
+- July 16, 2023: Author notification
 - July 31, 2023: Final paper submission, registration
 - Sept 20, 2023: Challenges in Natural Language Processing Symposium
 
