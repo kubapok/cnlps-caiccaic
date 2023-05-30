@@ -20,8 +20,8 @@ The approach used to prepare data for the challenge is meant to promote models r
 - Feb  13, 2023: Training data available (English)
 - Feb  20, 2023: Training data available (other languages)
 - May  17, 2023: Test data available
-- May  31, 2023: Deadline for submitting the results
-- June 04, 2023: Announcement of the final results, sending invitations for submitting papers
+- June 14, 2023: Deadline for submitting the results
+- June 16, 2023: Announcement of the final results, sending invitations for submitting papers
 - July 09, 2023: Deadline for submitting invited papers
 - July 16, 2023: Author notification
 - July 31, 2023: Final paper submission, registration
