@@ -21,7 +21,7 @@ Airconditioner	GetTemperatureFromDevice	{'device_name': 'family room'}
 Airconditioner	GetTemperature	{'av_alias': 'air conditioning'}
 Airconditioner	GetTemperature	{'av_alias': 'hvac'}
 Airconditioner	GetTemperature	{'av_alias': 'air conditioning'}
-Airconditioner	GetTemperature	{'av_alias': 'vac'}
+Airconditioner	GetTemperature	{'av_alias': 'hvac'}
 Airconditioner	GetTemperature	{'av_alias': 'cooling system'}
 Airconditioner	GetTemperature	{'av_alias': 'hvac'}
 Airconditioner	GetTemperature	{'av_alias': 'hvac'}
@@ -158,7 +158,7 @@ Calendar	NotNotifyOnEventInLocation	{'location': 'cloverly'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'worcester'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'green'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'debary'}
-Calendar	NotNotifyOnEventInLocation	{'location': 'lyma'}
+Calendar	NotNotifyOnEventInLocation	{'location': 'begins'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'lima'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'beltsville'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'sittingbourne'}
@@ -236,7 +236,7 @@ Calendar	NotifyWhenEventNameStart	{'event_name': 'meeting with betsy'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'meeting with hero dobbs'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'lunch with averil'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'meeting with quentin'}
-Calendar	NotifyWhenEventNameStart	{'event_name': 'dinner with journal oben'}
+Calendar	NotifyWhenEventNameStart	{'event_name': 'event dinner with jonah'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'meeting with millicent puller'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'flight to fawn grove'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'flight to navajo dam'}
@@ -337,7 +337,7 @@ Console	ConsoleCP	{'from': './OmegaT_4.1.5_04_Beta_Linux_64/docs/pt_BR', 'to': '
 Console	ConsoleCP	{'from': './linux-4.9.9/drivers/net/wireless/ath/ath10k', 'to': './scrapy/craigslist_sample/craigslist_sample'}
 Console	ConsoleCP	{'from': './android-studio-4.1/bin/clang', 'to': './android-studio/plugins/android/resources'}
 Console	ConsoleCP	{'from': './pytorch/c10', 'to': './linux-4.9.9/arch/arm64/include'}
-Console	ConsoleCP	{'from': 'five', 'to': 'lonely foud point one five for dhe supetourses'}
+Console	ConsoleCP	{'to': './OmegaT_4.1.5_04_Beta_Source/docs/uk/images do a copy of file ./OmegaT_4.1.5_04_Beta_Source/doc_src/it/images'}
 Console	ConsoleCP	{'from': './OmegaT_4.1.5_04_Beta_Source/doc_src/it/images', 'to': './OmegaT_4.1.5_04_Beta_Source/docs/uk/images'}
 Console	ConsoleCP	{'from': './pytorch/caffe2/onnx/torch_ops', 'to': './sling/third_party/zlib/upstream'}
 Console	ConsoleCP	{'from': './pytorch/aten/src/ATen/native/cudnn', 'to': './OmegaT_4.1.5_04_Beta_Source/docs/ko/images'}
@@ -429,7 +429,7 @@ Console	ConsoleLS	{'pathname': '2017'}
 Console	ConsoleLS	{'pathname': 'paperswithcode'}
 Console	ConsoleLS	{'pathname': 'img.pl'}
 Console	ConsoleLS	{'pathname': '2016'}
-Console	ConsoleLS	{'pathname': 'pafhaser to pruman shopers'}
+Console	ConsoleLS	{'pathname': 'path awesome_deep_learning_papers'}
 Console	ConsoleLS	{'pathname': '2012'}
 Console	ConsoleLS	{'pathname': 'redshift_1.12'}
 Console	ConsoleLS	{'pathname': 'tatuaz_4_inspiracje'}
@@ -524,7 +524,7 @@ Contacts	EditContactWithName	{'name': 'sharla cecchini'}
 Contacts	EditContactWithName	{'name': 'curtley lint'}
 Contacts	EditContactWithName	{'name': 'shania milling'}
 Contacts	EditContactWithName	{'name': 'flora'}
-Contacts	EditContactWithName	{'name': 'tester vigna'}
+Contacts	EditContactWithName	{'name': 'hester vigna'}
 Contacts	EditContactWithName	{'name': 'hester vigna'}
 Contacts	EditContactWithName	{'name': 'ivy mazingo'}
 Contacts	EditContactWithNumber	{'phone_number': '486 8032'}
@@ -590,11 +590,11 @@ Contacts	EditNumberInContactWithName	{'name': 'henry mccreadie'}
 Contacts	EditNumberInContactWithName	{'name': 'jeffrey dore'}
 Contacts	EditNumberInContactWithName	{'name': 'colin'}
 Contacts	EditNumberInContactWithName	{'name': 'amelia shedden'}
-Contacts	EditNumberInContactWithName	{'name': 'cold calvin'}
+Contacts	EditNumberInContactWithName	{'name': 'called calvin'}
 Contacts	EditNumberInContactWithName	{'name': 'palmer'}
 Contacts	EditNumberInContactWithName	{'name': 'joshua fralin'}
 Contacts	EditNumberInContactWithName	{'name': 'arliss allgood'}
-Contacts	EditNumberInContactWithName	{'name': 'g albert'}
+Contacts	EditNumberInContactWithName	{'name': 'gia elbert'}
 Contacts	EditNumberInContactWithName	{'name': 'gia elbert'}
 Contacts	EditNumberInContactWithName	{'name': 'cathleen'}
 Contacts	EditNumberInContactWithName	{'name': 'zack'}
@@ -703,13 +703,13 @@ Email	OpenEmail	{}
 Email	OpenEmail	{}
 Email	ReplyToEmailFromAddress	{'to': 'marron'}
 Email	ReplyToEmailFromAddress	{'to': 'jodie'}
-Email	ReplyToEmailFromAddress	{'to': 'alegendraminkle'}
+Email	ReplyToEmailFromAddress	{'to': 'alejandrina@gmail.com'}
 Email	ReplyToEmailFromAddress	{'to': 'alejandrina@gmail.com'}
 Email	ReplyToEmailFromAddress	{'to': 'jelene@gmail.com'}
 Email	ReplyToEmailFromAddress	{'to': 'rosanne@pacbell.net'}
-Email	ReplyToEmailFromAddress	{'to': 'his canel a monk'}
+Email	ReplyToEmailFromAddress	{'to': 'hhsaxon@aol.com'}
 Email	ReplyToEmailFromAddress	{'to': 'milena@fqnet.com'}
-Email	ReplyToEmailFromAddress	{'to': 'mulbem jelecky'}
+Email	ReplyToEmailFromAddress	{'to': 'melba@gmail.com email'}
 Email	ReplyToEmailFromAddress	{'to': 'clareta@thestreet.com'}
 Email	ReplyToEmailFromAddress	{'to': 'merline@gmail.com'}
 Email	ReplyToEmailFromAddress	{'to': 'lorrin@chase.com'}
@@ -798,7 +798,7 @@ Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'markets has been 
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'held by different parties', 'subject': 'affect industrial energy systems', 'to': 'edi'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'attached is a copy of the filing', 'subject': 'got sent back the first time', 'to': 'shanta@hotmail.com'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'broadband services and solutions', 'subject': 'dedicated rate component', 'to': 'kaile'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'to': 'racy mogaclime'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'to': 'rasia@gmail.com with'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'electricity shortage in sf', 'subject': 'would be attending as well', 'to': 'heda@yahoo.com'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'office of ratepayer advocates', 'subject': 'message across to the commission', 'to': 'bryan'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'online the encyclopedia has been available free since october', 'subject': 'it is not a hollow threat', 'to': 'mark palmer'}
@@ -1012,7 +1012,7 @@ Facebook	PostStatus	{'status': 'the local women wear black dresses'}
 Facebook	PostStatus	{'status': 'i was in argentina for ten years'}
 Facebook	PostStatus	{'status': 'february is not a month of the summer'}
 Facebook	PostStatus	{'status': 'my father did not drink wine yesterday'}
-Facebook	PostStatus	"{'status': ""woman's whims among the turtles""}"
+Facebook	PostStatus	{'status': 'woman swims among the turtles'}
 Facebook	PostStatus	{'status': 'do you have this in other colors'}
 Facebook	PostStatus	{'status': 'we are not going to have a house'}
 Facebook	ShowAlbumWithName	{'album': 'design'}
@@ -1167,7 +1167,7 @@ Instagram	ShowPicturesFromDate	{'date_day': '19th', 'date_month': 'June'}
 Instagram	ShowPicturesWithFilter	{'filter': 'juno'}
 Instagram	ShowPicturesWithFilter	{'filter': 'valencia'}
 Instagram	ShowPicturesWithFilter	{'filter': 'slumber'}
-Instagram	ShowPicturesWithFilter	{'filter': 'rice'}
+Instagram	ShowPicturesWithFilter	{'filter': 'rise'}
 Instagram	ShowPicturesWithFilter	{'filter': 'lark'}
 Instagram	ShowPicturesWithFilter	{'filter': 'clarendon'}
 Instagram	ShowPicturesWithFilter	{'filter': 'gingham'}
@@ -1189,7 +1189,7 @@ Instagram	ShowPicturesWithFilter	{'filter': 'reyes'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'makeup artist'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'summer'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'newyearseve2017'}
-Instagram	ShowPicturesWithHashtag	{'hashtag': 'selphy'}
+Instagram	ShowPicturesWithHashtag	{'hashtag': 'selfie'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'goldenretriever'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'markers'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'cutepuppy'}
@@ -1241,7 +1241,7 @@ Instagram	ShowPicturesWithLocation	{'location': 'wolfe'}
 Instagram	ShowPicturesWithLocation	{'location': 'losantville'}
 Instagram	ShowPicturesWithLocation	{'location': 'blooming grove'}
 Instagram	ShowPicturesWithLocation	{'location': 'walden'}
-Instagram	ShowPicturesWithLocation	{'location': 'inoltovisto'}
+Instagram	ShowPicturesWithLocation	{'location': 'in'}
 Instagram	ShowPicturesWithLocation	{'location': 'prentice'}
 Instagram	ShowPicturesWithLocation	{'location': 'blue ridge summit'}
 Instagram	ShowPicturesWithLocation	{'location': 'buellton'}
@@ -1252,7 +1252,7 @@ Instagram	ShowPicturesWithLocation	{'location': 'north granville'}
 Instagram	ShowPicturesWithLocation	{'location': 'presque isle'}
 Instagram	ShowPicturesWithLocation	{'location': 'suncook'}
 Instagram	ShowPicturesWithLocation	{'location': 'cedar run'}
-Instagram	ShowPicturesWithLocation	{'location': 'harrisable'}
+Instagram	ShowPicturesWithLocation	{'location': 'harrisonville'}
 Instagram	ShowPicturesWithLocation	{'location': 'stoddard'}
 Instagram	ShowPicturesWithLocation	{'location': 'loves park'}
 Instagram	ShowPicturesWithLocation	{'location': 'overton'}
@@ -1289,7 +1289,7 @@ Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
-Instagram	ShowPictures	{'location': 'stegram'}
+Instagram	ShowPictures	{'location': 'lately'}
 Instagram	ShowPictures	{}
 Instagram	TakePicture	{}
 Instagram	TakePicture	{}
@@ -1314,13 +1314,13 @@ Instagram	TakePicture	{}
 Instagram	TakePicture	{}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'time', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffington post', 'section': 'health'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'huff', 'section': 'postportastport'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffpost', 'section': 'portal'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'ny times', 'section': 'celebrity'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'fox news', 'section': 'health'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffington', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'techcrunch', 'section': 'tech'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'time magazine', 'section': 'tech'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffingtonpost', 'section': 'celebrity'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffington', 'section': 'post'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'nyt', 'section': 'celebrity'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'huffington post', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'ny times', 'section': 'politics'}
@@ -1347,7 +1347,7 @@ News	ShowNewsFromSection	{'portal': 'ny times', 'section': 'health'}
 News	ShowNewsFromSection	{'portal': 'ny times', 'section': 'celebrity'}
 News	ShowNews	{'portal': 'huffington'}
 News	ShowNews	{'portal': 'ny times'}
-News	ShowNews	{'portal': 'wire'}
+News	ShowNews	{'portal': 'wired'}
 News	ShowNews	{'portal': 'fox news'}
 News	ShowNews	{'portal': 'huffpost'}
 News	ShowNews	{'portal': 'time'}
@@ -1416,7 +1416,7 @@ Phone	SMSToContactWithMessage	{'message': 'page five', 'to': 'owens'}
 Phone	SMSToContactWithMessage	{'message': 'the police blame the actor', 'to': 'carmelita'}
 Phone	SMSToContact	{'to': 'tien'}
 Phone	SMSToContact	{'to': 'caterina'}
-Phone	SMSToContact	{'to': 'natual'}
+Phone	SMSToContact	{'to': 'to'}
 Phone	SMSToContact	{'to': 'nasho'}
 Phone	SMSToContact	{'to': 'kasey'}
 Phone	SMSToContact	{'to': 'ertha'}
@@ -1479,7 +1479,7 @@ Slack	SendMessageToChannel	{'channel': 'montauk project', 'message': 'of its pro
 Slack	SendMessageToChannel	{'channel': 'brazil', 'message': 'putting off informing its employees for an hour'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'goes', 'channel': 'instagram ads'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'fault', 'channel': 'snapchat ads'}
-Slack	SendPictureToChannelWithCaption	{'caption': 'agreed', 'channel': 'chunnel twitterads'}
+Slack	SendPictureToChannelWithCaption	{'caption': 'caption', 'channel': 'channel twitter'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'shortages', 'channel': 'sales dakar'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'accumulating', 'channel': 'tunis'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'meek', 'channel': 'finance paris'}
@@ -1495,7 +1495,7 @@ Slack	SendPictureWithUrlToChannel	{'channel': 'client coverage', 'picture_url': 
 Slack	SendSlackMessage	{}
 Slack	SetPurposeOnChannel	{'channel': 'sales libya', 'purpose': 'interview'}
 Slack	SetPurposeOnChannel	{'channel': 'tokyo', 'purpose': 'decision log'}
-Slack	SetPurposeOnChannel	{'channel': 'motion graphic', 'purpose': 'be testing'}
+Slack	SetPurposeOnChannel	{'channel': 'motion graphics', 'purpose': 'a b'}
 Slack	SetPurposeOnChannel	{'channel': 'motion graphics', 'purpose': 'a b testing'}
 Slack	SetPurposeOnChannel	{'channel': 'vienna', 'purpose': 'decisions'}
 Slack	SetPurposeOnChannel	{'channel': 'institutional sales and trading', 'purpose': 'present for john'}
@@ -1706,15 +1706,15 @@ Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'rhythmic songs', 'song':
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'viral 2022', 'song': 'dream like a child'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'ring of fortune', 'song': 'portrait the pinnacle'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'messy mess', 'song': 'habits of my heart'}
-Spotify	AddSongWithNameToPlaylistWithName	{'song': 'song float of'}
+Spotify	AddSongWithNameToPlaylistWithName	{'song': 'song flood of'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'bed time stories', 'song': 'if you still want me'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'guilty as charged', 'song': 'histoire de faussaire'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'cake party', 'song': 'ligerezza'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'girl power', 'song': 'baby i want you'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'rockpop nacional', 'song': 'siberian tiger on an ocean liner'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'kenny rogers number ones', 'song': 'king tee monay'}
-Spotify	AddSongWithNameToPlaylistWithName	{'song': 'age disease'}
-Spotify	AddSongWithNameToPlaylistWithName	{'song': 'al or'}
+Spotify	AddSongWithNameToPlaylistWithName	{'song': 'teenage disease'}
+Spotify	AddSongWithNameToPlaylistWithName	{'song': 'el artista'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'magic in the hamptons', 'song': 'this day on'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'cocktail house', 'song': 'brethren of the hammer'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'ocean lakes', 'song': 'overweight but over you'}
@@ -1724,7 +1724,7 @@ Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'planet earth', 'song': '
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'crash into me', 'song': 'nysalta uer'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': '00s rock anthems', 'song': 'monterey'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'chill beats', 'song': 'we still dance'}
-Spotify	AddSongWithNameToPlaylistWithName	{'song': 'o replaceable'}
+Spotify	AddSongWithNameToPlaylistWithName	{'song': 'irreplaceable love'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'playdate', 'song': 'per un vecchio bambino'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'microwave popcorn', 'song': 'party girls'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'five guys', 'song': 'evil never dies'}
@@ -1752,7 +1752,7 @@ Spotify	CreatePlaylist	{}
 Spotify	CreatePlaylist	{}
 Spotify	CreatePlaylist	{}
 Spotify	NextSong	{}
-Spotify	NextSong	{'song': 'next treck'}
+Spotify	NextSong	{'song': 'next track'}
 Spotify	NextSong	{}
 Spotify	NextSong	{}
 Spotify	NextSong	{}
@@ -1767,7 +1767,7 @@ Spotify	Pause	{}
 Spotify	Pause	{}
 Spotify	Pause	{}
 Spotify	Pause	{}
-Spotify	Pause	{'query': 'paws'}
+Spotify	Pause	{'query': 'pause'}
 Spotify	Pause	{}
 Spotify	Pause	{}
 Spotify	Pause	{}
@@ -1868,7 +1868,7 @@ Spotify	ShuffleOnOff	{}
 Translate	DetectLanguage	{'text_multi': 'i need postage stamps'}
 Translate	DetectLanguage	{'text_multi': 'lunch'}
 Translate	DetectLanguage	{'text_multi': 'mille'}
-Translate	DetectLanguage	{'all_lang': 'gomani'}
+Translate	DetectLanguage	{'all_lang': 'domani'}
 Translate	DetectLanguage	{'text_multi': 'see note in previous section'}
 Translate	SetDefaultLanguageToLanguage	{'all_lang': 'italian'}
 Translate	SetDefaultLanguageToLanguage	{'all_lang': 'hindi'}
@@ -1908,9 +1908,9 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'il sale', 'translator': 'google', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'verde', 'translator': 'deepl', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'novembre', 'translator': 'deepl', 'trg_lang_es': 'spanish'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_it': 'quali'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_it': 'qual'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'ho bisogno di shampoo', 'translator': 'yandex', 'trg_lang_fr': 'french'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'translator': 'gog'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'french', 'text_fr': ""j'ai besoin de dentifrice"", 'translator': 'deepl', 'trg_lang_pl': 'polish'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french', 'text_fr': 'où sont les toilettes', 'translator': 'google', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'french', 'text_fr': ""j'ai besoin d'un remède pour l'estomac"", 'translator': 'microsoft', 'trg_lang_de': 'german'}"
@@ -1934,7 +1934,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german'
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'danke', 'translator': 'deepl', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'verano', 'translator': 'yandex', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'existe una especialidad de la casa', 'translator': 'deepl', 'trg_lang_fr': 'french'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'mezo', 'translator': 'gugul', 'trg_lang_pl': 'polish'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'mezzo', 'translator': 'google', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french', 'text_fr': 'pouvez-vous me faire le change', 'translator': 'google', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french', 'text_fr': 'dégage', 'translator': 'yandex', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french', 'text_fr': 'des œufs', 'translator': 'microsoft', 'trg_lang_it': 'italian'}
@@ -1970,7 +1970,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'dopo', 'translator': 'deepl', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'frühstück', 'translator': 'google', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'ich bin amerikanischer staatsbürger', 'translator': 'deepl', 'trg_lang_pl': 'polish'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'translator': 'deeple'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'translator': 'deepl'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'ich esse nur koscher', 'translator': 'yandex', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'siebzehn', 'translator': 'google', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'das war ein missverständnis', 'translator': 'google', 'trg_lang_fr': 'french'}
@@ -2000,7 +2000,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polish'
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'zweihundert', 'translator': 'microsoft', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'sì', 'translator': 'yandex', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'succo di arancia', 'translator': 'google', 'trg_lang_de': 'german'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'ille pess', 'translator': 'microsof', 'trg_lang_es': 'spanish'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'il pesce', 'translator': 'microsoft', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'french', 'text_fr': ""une autre tournée s'il vous plait"", 'translator': 'microsoft', 'trg_lang_pl': 'polish'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french', 'text_fr': 'bonne nuit', 'translator': 'yandex', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'french', 'text_fr': ""je n'ai pas les moyens"", 'translator': 'microsoft', 'trg_lang_en': 'english'}"
@@ -2183,7 +2183,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german'
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'el queso', 'translator': 'microsoft', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'puedo ver en la cocina', 'translator': 'yandex', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'a la una de la mañana', 'translator': 'google', 'trg_lang_it': 'italian'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_es': 'heserbisio'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_es': 'hay'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'spanish', 'text_es': 'hay servicio de mesa', 'translator': 'microsoft', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'prima', 'translator': 'yandex', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'italian', 'text_it': 'conosco solo alcune parole in italiano', 'translator': 'google', 'trg_lang_de': 'german'}
@@ -2247,7 +2247,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'french'
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'english', 'text_en': 'noodles', 'translator': 'yandex', 'trg_lang_fr': 'french'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'english', 'text_en': 'do you speak english', 'translator': 'google', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'english', 'text_en': 'november', 'translator': 'google', 'trg_lang_fr': 'french'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_pl': 'ribe', 'translator': 'deeplle', 'trg_lang_en': 'english'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'text_pl': 'rybę', 'translator': 'deepl', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polish', 'text_pl': 'jaskinia', 'translator': 'google', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'vorgestern', 'translator': 'yandex', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'german', 'text_de': 'vierzehn uhr', 'translator': 'google', 'trg_lang_pl': 'polish'}
@@ -2317,7 +2317,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr
 Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_fr': 'french', 'text_fr': ""j'ai besoin d'un stylo"", 'trg_lang_en': 'english'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_en': 'english', 'text_en': 'north', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_en': 'english', 'text_en': 'the week before last week', 'trg_lang_de': 'german'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'what isize', 'trg_lang_it': 'italian'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'dwa tysiące', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'dokąd do', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'złapałem gumę', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'gerne', 'trg_lang_es': 'spanish'}
@@ -2338,7 +2338,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'zur stadtmitte', 'trg_lang_fr': 'french'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'kann ich dein telefon benutzen', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'saft', 'trg_lang_pl': 'polish'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'worst', 'trg_lang_it': 'italian'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'wurst', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'wurst', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'rindfleisch', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'ahora', 'trg_lang_pl': 'polish'}
@@ -2348,7 +2348,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_e
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'domingo', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'perdone', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'cómo puedo llegar a la estación de tren', 'trg_lang_en': 'english'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'giriodestre'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'destra', 'text_it': 'giri'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'salve', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'ho bisogno di libri in inglese', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'non posso permettermelo', 'trg_lang_en': 'english'}
@@ -2408,7 +2408,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'pociąg', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'czy jest tu sejf', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'morgen früh', 'trg_lang_it': 'italian'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'ubermorn', 'trg_lang_fr': 'french'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'übermorgen', 'trg_lang_fr': 'french'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'au revoir', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'demain', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polish', 'text_pl': 'nie', 'trg_lang_fr': 'french'}
@@ -2436,7 +2436,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_i
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'je ne comprends pas', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_fr': 'french', 'text_fr': ""c'est trop cher"", 'trg_lang_de': 'german'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'je me suis blessé', 'trg_lang_it': 'italian'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'meti', 'trg_lang_pl': 'polish'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'midi', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'heure', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'végétarienne', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'le matin', 'trg_lang_es': 'spanish'}
@@ -2483,7 +2483,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_i
 Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_it': 'italian', 'text_it': ""c'è una specialità della casa"", 'trg_lang_es': 'spanish'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'marzo', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'no', 'trg_lang_fr': 'french'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'roso', 'trg_lang_es': 'spanish'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'rosso', 'trg_lang_es': 'spanish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'rhum', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_fr': 'french', 'text_fr': ""aujourd'hui"", 'trg_lang_de': 'german'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'ne me touchez pas', 'trg_lang_es': 'spanish'}
@@ -2501,7 +2501,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'german', 'text_de': 'schönen abend noch', 'trg_lang_fr': 'french'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'bicicleta', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'buenos días', 'trg_lang_pl': 'polish'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanag', 'text_es': 'barker', 'trg_lang_it': 'italian'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'barco', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'spanish', 'text_es': 'barco', 'trg_lang_it': 'italian'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'lei può dirmi', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'formaggio', 'trg_lang_pl': 'polish'}
@@ -2551,7 +2551,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_i
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'italian', 'text_it': 'voglio andare via', 'trg_lang_fr': 'french'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'pourrais-je avoir un sac', 'trg_lang_de': 'german'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'mardi', 'trg_lang_es': 'spanish'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'desarcises', 'trg_lang_it': 'italian'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'from', 'text_fr': 'des', 'trg_lang_it': 'to'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'est-ce que vous servez à la table', 'trg_lang_en': 'english'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'lundi', 'trg_lang_pl': 'polish'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'french', 'text_fr': 'breakfast', 'trg_lang_de': 'german'}
@@ -2593,9 +2593,9 @@ Translate	TranslateTextFromLanguage	"{'src_lang_fr': 'french', 'text_fr': ""j'ai
 Translate	TranslateTextFromLanguage	{'src_lang_fr': 'french', 'text_fr': 'acceptez-vous les cartes de credit'}
 Translate	TranslateTextFromLanguage	"{'src_lang_fr': 'french', 'text_fr': ""j'ai besoin d'une carte postale""}"
 Translate	TranslateTextFromLanguage	{'src_lang_en': 'english', 'text_en': 'how are you'}
-Translate	TranslateTextFromLanguage	{'src_lang_es': 'panish', 'text_es': 'dufe'}
+Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'café'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'käse'}
-Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'brought'}
+Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'brot'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'brot'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'mai'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'italian', 'text_it': 'posso usare il suo telefono'}
@@ -2616,7 +2616,7 @@ Translate	TranslateTextFromLanguage	{'src_lang_en': 'english', 'text_en': 'where
 Translate	TranslateTextFromLanguage	{'src_lang_pl': 'polish', 'text_pl': 'mniej'}
 Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'aerolínea'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'italian', 'text_it': 'sinistra'}
-Translate	TranslateTextFromLanguage	{'src_lang_pl': 'polished', 'text_pl': 'for soli'}
+Translate	TranslateTextFromLanguage	{'src_lang_pl': 'polish', 'text_pl': 'fasolę'}
 Translate	TranslateTextFromLanguage	{}
 Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'la habitación viene con'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'ich habe kein interesse'}
@@ -2626,7 +2626,7 @@ Translate	TranslateTextFromLanguage	{'src_lang_it': 'italian', 'text_it': 'where
 Translate	TranslateTextFromLanguage	"{'src_lang_fr': 'french', 'text_fr': ""un demi s'il-vous-plaît""}"
 Translate	TranslateTextFromLanguage	{}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'italian', 'text_it': 'mentre'}
-Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'mao'}
+Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'mayo'}
 Translate	TranslateTextFromLanguage	{'src_lang_es': 'spanish', 'text_es': 'metro'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'ein telefon'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'german', 'text_de': 'ich will es nicht'}
@@ -2645,7 +2645,7 @@ Translate	TranslateTextToLanguage	{'text_en': 'it was a misunderstanding', 'trg_
 Translate	TranslateTextToLanguage	"{'text_en': ""you're welcome"", 'trg_lang_general': 'polish'}"
 Translate	TranslateTextToLanguage	{'text_en': 'tomorrow morning', 'trg_lang_general': 'german'}
 Translate	TranslateTextToLanguage	{'text_en': 'i need a doctor', 'trg_lang_general': 'thai'}
-Translate	TranslateTextToLanguage	{'text_en': 'stop thief', 'trg_lang_general': 'check'}
+Translate	TranslateTextToLanguage	{'text_en': 'of stop', 'trg_lang_general': 'to'}
 Translate	TranslateTextToLanguage	{'text_en': 'i lost my wallet', 'trg_lang_general': 'german'}
 Translate	TranslateTextToLanguage	"{'text_en': ""i haven't done anything wrong"", 'trg_lang_general': 'thai'}"
 Translate	TranslateTextToLanguage	{'text_en': 'july', 'trg_lang_general': 'finish'}
@@ -2753,7 +2753,7 @@ Weather	WeatherInLocation	{'location': 'canterbury'}
 Weather	WeatherInLocation	{'location': 'lacarne'}
 Weather	WeatherTomorrowInLocation	{'location': 'kemmerer'}
 Weather	WeatherTomorrowInLocation	{'location': 'denville'}
-Weather	WeatherTomorrowInLocation	{'date': 'four mars', 'location': 'morrow'}
+Weather	WeatherTomorrowInLocation	{'date': 'mars', 'location': 'for'}
 Weather	WeatherTomorrowInLocation	{'location': 'annada'}
 Weather	WeatherTomorrowInLocation	{'location': 'weedville'}
 Weather	WeatherTomorrowInLocation	{'location': 'ouaquaga'}
@@ -3237,7 +3237,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'lebr
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'old songs'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'april fool images'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'tallest man'}
-Websearch	SearchImagesWithTextOnEngine	{'img_query': 'lebyran twelve'}
+Websearch	SearchImagesWithTextOnEngine	{'img_query': 'lebron 12'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'relationship quotes'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'drone'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'google gravity'}
@@ -3589,7 +3589,7 @@ Youtube	FindQueryOnChannel	{}
 Youtube	FindQuery	{'query': 'best new country music 2017'}
 Youtube	FindQuery	{'query': 'sounds of the ocean'}
 Youtube	FindQuery	{'query': 'unfreezing frozen pipes'}
-Youtube	FindQuery	{'query': 'california wale watching place'}
+Youtube	FindQuery	{'query': 'california whale watching place'}
 Youtube	FindQuery	{'query': 'dr pimple popper'}
 Youtube	FindQuery	{'query': 'dodge ram oil change'}
 Youtube	FindQuery	{'query': 'chernobyl'}
@@ -3661,7 +3661,7 @@ Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'salonie', 'value':
 Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'gabinecie', 'value': '16 stopni'}
 Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'salonie', 'value': '21 stopni'}
 Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'salonie', 'value': '26 stopni'}
-Airconditioner	SetTemperatureToValueOnDevice	{'value': 'stopni na'}
+Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'sypialnii', 'value': '15 stopni'}
 Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'przedpokoju', 'value': '28 stopni'}
 Airconditioner	TurnOff	{'av_alias': 'klimatyzator ścienny'}
 Airconditioner	TurnOff	{'av_alias': 'chłodnica powietrza'}
@@ -3671,11 +3671,11 @@ Calendar	AddEventOnDateWithName	{'date': 'czwartek 21 dodaj nowe przypomnienie o
 Calendar	AddEventOnDateWithName	{'date': 'tę środę', 'event_name': 'wakacje'}
 Calendar	AddEventOnDateWithName	{'date': 'piątek 22', 'event_name': 'strzyżenie męskie'}
 Calendar	AddEventOnDateWithName	{'date': 'następną sobotę dodaj przypomnienie o nazwie', 'event_name': 'urodziny enniusza'}
-Calendar	AddEventOnDateWithName	{'date': 'ta środa zanotuj w kalendarzu', 'event_name': 'spotkanie z oleniacz'}
+Calendar	AddEventOnDateWithName	{'date': 'tę środę zanotuj w kalendarzu', 'event_name': 'spotkanie z oleniacz'}
 Calendar	AddEventOnDateWithName	{'date': 'ten poniedziałek zaznacz wydarzenie o nazwie', 'event_name': 'wyjazd do mumbaj'}
 Calendar	AddEventOnDateWithName	{'date': 'poniedziałek 11', 'event_name': 'kolacja z jurand'}
 Calendar	AddEventOnDateWithName	{'date': 'środę', 'event_name': 'urodziny owidiusz'}
-Calendar	AddEventWithName	{'event_name': 'wyjazdu ankara do'}
+Calendar	AddEventWithName	{'event_name': 'wyjazd do ankara'}
 Calendar	AddEventWithName	{'event_name': 'kolacja z argymir'}
 Calendar	AddEventWithName	{'event_name': 'urodziny lodzii'}
 Calendar	AddEventWithName	{'event_name': 'kolacja z simoną'}
@@ -3690,7 +3690,7 @@ Calendar	AddEventWithName	{'event_name': 'spotkanie z jałowiczor'}
 Calendar	AddEventWithName	{'event_name': 'spotkanie z olekszyk'}
 Calendar	AddEventWithName	{'event_name': 'spotkanie z dekarzem'}
 Calendar	CheckCalendarEventName	{'event_name': 'spotkanie z lutrzykowskim'}
-Calendar	CheckCalendarEventName	{'event_name': 'spotkanie z lubancuszką'}
+Calendar	CheckCalendarEventName	{'event_name': 'spotkanie z lubencjusz'}
 Calendar	CheckCalendarEventName	{'event_name': 'spotkanie z babczyńską'}
 Calendar	CheckCalendarEventName	{'event_name': 'kolacja z oliwierem'}
 Calendar	CheckCalendarEventName	{'event_name': 'wyjazd do rio'}
@@ -3700,14 +3700,14 @@ Calendar	CheckCalendarOnDate	{'date': 'następny poniedziałek'}
 Calendar	CheckCalendarOnDate	{'date': 'poniedziałek 11'}
 Calendar	CheckCalendarOnDate	{'date': 'środę 19'}
 Calendar	CheckCalendarOnDate	{'date': 'poniedziałek 9'}
-Calendar	CheckCalendarOnDate	{'date': 'a'}
+Calendar	CheckCalendarOnDate	{'date': 'piątek'}
 Calendar	CheckCalendarOnDate	{'date': 'środę 17'}
 Calendar	CheckCalendarOnDate	{'date': 'wtorek 15'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'new melle'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'młodych'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'wagoner'}
-Calendar	NotNotifyOnEventInLocation	{'location': 'się'}
-Calendar	NotNotifyOnEventInLocation	{'location': 'się'}
+Calendar	NotNotifyOnEventInLocation	{'location': 'mickiewicza'}
+Calendar	NotNotifyOnEventInLocation	{'location': 'mattituck'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'navajo dam'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'bemowo'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'widawa'}
@@ -3724,11 +3724,11 @@ Calendar	NotNotifyOnEventInLocation	{'location': 'furlong'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'ocean city'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'thompson ridge'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'arnoldsville'}
-Calendar	NotNotifyOnEventInLocation	{'location': 'od stąd'}
+Calendar	NotNotifyOnEventInLocation	{'location': 'east woodstock'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'freetown'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'suffield'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'fenton'}
-Calendar	NotNotifyOnEventInLocation	{'location': 'spofork'}
+Calendar	NotNotifyOnEventInLocation	{'location': 'spofford'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'sandusky'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'stirling city'}
 Calendar	NotNotifyOnEventInLocation	{'location': 'klemme'}
@@ -3759,7 +3759,7 @@ Calendar	NotNotifyOnEventStart	{}
 Calendar	NotNotifyOnEventStart	{}
 Calendar	NotifyOnEventInLocation	{'location': 'jarnołtów'}
 Calendar	NotifyOnEventInLocation	{'location': 'północ'}
-Calendar	NotifyOnEventInLocation	{'location': 'się'}
+Calendar	NotifyOnEventInLocation	{'location': 'swoszowice'}
 Calendar	NotifyOnEventInLocation	{'location': 'bieńkowice'}
 Calendar	NotifyOnEventInLocation	{'location': 'niebuszewo'}
 Calendar	NotifyOnEventInLocation	{'location': 'słoneczne'}
@@ -3780,7 +3780,7 @@ Calendar	NotifyOnEventStart	{}
 Calendar	NotifyOnEventStart	{}
 Calendar	NotifyWhenEventNameStart	{'location': 'restauracji arigator'}
 Calendar	NotifyWhenEventNameStart	{'location': 'nowym teatrze'}
-Calendar	NotifyWhenEventNameStart	{'location': 'się rozpocznie'}
+Calendar	NotifyWhenEventNameStart	{'location': 'kinie multikino'}
 Calendar	NotifyWhenEventNameStart	{'location': 'domu ani'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'spotkanie z metody'}
 Calendar	NotifyWhenEventNameStart	{'event_name': 'urodziny flawiusz'}
@@ -3788,19 +3788,19 @@ Calendar	OpenCalendar	{}
 Calendar	OpenCalendar	{}
 Calendar	OpenCalendar	{}
 Calendar	OpenCalendar	{}
-Console	ConsoleCD	{'pathname': 'katalogu'}
+Console	ConsoleCD	{'pathname': '2003'}
 Console	ConsoleCD	{'pathname': 'Desktop'}
 Console	ConsoleCD	{'pathname': '2004'}
 Console	ConsoleCD	{'pathname': 'cities'}
 Console	ConsoleCD	{'pathname': 'emnlp'}
 Console	ConsoleCD	{'pathname': 'corpora_scrap_20190325'}
 Console	ConsoleCD	{'pathname': 'Audio'}
-Console	ConsoleCP	{'from': 'zbierać', 'to': 'omega'}
+Console	ConsoleCP	{'from': './OmegaT_4.1.5_04_Beta_Linux_64/docs/ia/images', 'to': './OmegaT_4.1.5_04_Beta_Linux_64/docs/no'}
 Console	ConsoleCP	{'from': './linux-4.9.9/Documentation/ABI/obsolete', 'to': './sling/third_party/glog/upstream/packages'}
 Console	ConsoleCP	{'from': './pytorch/torch/nn/utils', 'to': './pytorch/aten/src/ATen/cpu'}
 Console	ConsoleCP	{'from': './android-studio/plugins/gradle-java', 'to': './grammatical-score/mtdb'}
 Console	ConsoleCP	{'from': './linux-4.9.9/drivers/net/wireless/intersil/prism54', 'to': './android-studio/jre/legal/jdk.management.jfr'}
-Console	ConsoleCP	{'from': 'omega', 'to': 'się'}
+Console	ConsoleCP	{'from': './OmegaT_4.1.5_04_Beta_Source/docs/sv', 'to': './linux-4.9.9/Documentation/infiniband'}
 Console	ConsoleCP	{'from': './OmegaT_4.1.5_04_Beta_Source/release/l10n-project', 'to': './linux-4.9.9/arch/alpha/lib'}
 Console	ConsoleCP	{'from': './android-studio/jre/legal/jdk.internal.vm.ci', 'to': './sling/third_party/tensorflow'}
 Console	ConsoleCP	{'from': './linux-4.9.9/Documentation/features/seccomp', 'to': './pytorch/caffe2/mobile/contrib/nnapi'}
@@ -3865,7 +3865,7 @@ Console	ConsoleEdit	{'filename': 'cikm2013_DSSM_fullversion_pdf'}
 Console	ConsoleEdit	{'filename': 'utt03_txt'}
 Console	ConsoleEdit	{'filename': 'green16_png'}
 Console	ConsoleEdit	{'filename': 'ola'}
-Console	ConsoleEdit	{'filename': 'andere'}
+Console	ConsoleEdit	{'filename': 'angry_professor_py'}
 Console	ConsoleEdit	{'filename': '1708_02709_pdf'}
 Console	ConsoleEdit	{'filename': 'test2'}
 Console	ConsoleEdit	{'filename': 'part_2_ppt'}
@@ -3907,12 +3907,12 @@ Console	ConsoleLS	{'pathname': 'plugins'}
 Console	ConsoleLS	{'pathname': 'ipd_ocena_srodokresowa'}
 Console	ConsoleLS	{'filename': 'websearch_txt'}
 Console	ConsoleLS	{'filename': 'research'}
-Console	ConsoleLS	{'pathname': 'andreyx'}
+Console	ConsoleLS	{'pathname': 'android_studio_4.1'}
 Console	ConsoleLS	{'pathname': 'nlu_compression'}
 Console	ConsoleLS	{'pathname': 'train_on_target'}
 Console	ConsoleMV	{'from': './linux-4.9.9/arch/arm/kvm', 'to': './linux-4.9.9/Documentation/features/io/sg-chain'}
 Console	ConsoleMV	{'from': './android-studio/plugins/IntelliLang', 'to': './srilm/flm/bin/i686-m64'}
-Console	ConsoleMV	{'from': 'binadip-100', 'to': 'android'}
+Console	ConsoleMV	{'from': './ParlAI/parlai/tasks/snli', 'to': './android-studio-4.1/bin/lldb/lib/python2.7/bsddb'}
 Console	ConsoleMV	{'from': './linux-4.9.9/Documentation/x86/i386', 'to': './srilm/lm/test/tests/ngram-count-gt'}
 Console	ConsoleMV	{'from': './linux-4.9.9/Documentation/block', 'to': './pytorch/tools/amd_build/patches'}
 Console	ConsoleMV	{'from': './OmegaT_4.1.5_04_Beta_Source/doc_src/ja/images', 'to': './pytorch/c10/test/core'}
@@ -3927,12 +3927,12 @@ Console	ConsoleRM	{'from': './linux-4.9.9/Documentation/media/uapi/rc'}
 Console	ConsoleRM	{'from': './pytorch/torch/csrc/tensor'}
 Console	ConsoleRM	{'from': './OmegaT_4.1.5_04_Beta_Source/doc_src/de/images'}
 Console	ConsoleRM	{'from': './android-studio/jre/bin'}
-Console	ConsoleRM	{'from': 'innesert'}
+Console	ConsoleRM	{'from': './JNN/src'}
 Console	ConsoleRM	{'from': './linux-4.9.9/Documentation/devicetree/bindings'}
 Console	ConsoleRM	{'from': './android-studio/plugins/android/resources/images'}
 Console	ConsoleRM	{'from': './seq2seq-attn/data'}
 Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'antonina jabłonowska', 'phone_number': '83 512 14 14', 'phone_type': 'domowy'}
-Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'numerem', 'phone_number': 'domowy'}
+Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'ursyn', 'phone_number': '654 444 497', 'phone_type': 'domowy'}
 Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'atena badowicz', 'phone_number': '33 237 15 44', 'phone_type': 'domowy'}
 Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'skupiński', 'phone_number': '779 115 922'}
 Contacts	CreateContactWithNameAndWithNumberAndWithType	{'name': 'kłossowski', 'phone_number': '22 651 42 59', 'phone_type': 'komórkowy'}
@@ -3970,13 +3970,13 @@ Contacts	EditContactWithNumber	{'phone_number': '32 280 17 68'}
 Contacts	EditContactWithNumber	{'phone_number': '562 268 103'}
 Contacts	EditContactWithNumber	{'phone_number': '530 802 333'}
 Contacts	EditContactWithNumber	{'phone_number': '85 699 80 16'}
-Contacts	EditContactWithNumber	{}
+Contacts	EditContactWithNumber	{'phone_number': '52 379 53 96'}
 Contacts	EditContactWithNumber	{'phone_number': '699 586 473'}
 Contacts	EditContactWithNumber	{'phone_number': '799 374 547'}
 Contacts	EditContactWithNumber	{'phone_number': '95 570 97 83'}
 Contacts	EditNumberInContactWithName	{'name': 'oliwia jankowski'}
 Contacts	EditNumberInContactWithName	{'name': 'oliwier'}
-Contacts	EditNumberInContactWithName	{'name': 'beniami'}
+Contacts	EditNumberInContactWithName	{'name': 'beniamin'}
 Contacts	EditNumberInContactWithName	{'name': 'iga'}
 Contacts	EditNumberInContactWithName	{'name': 'róża dobrucki'}
 Contacts	EditNumberInContactWithName	{'name': 'ludwik przybysz'}
@@ -4004,7 +4004,7 @@ Contacts	ShowContactWithEmail	{'email': 'zenobia.skiba@interia.pl'}
 Contacts	ShowContactWithEmail	{'email': 'lech21428@gmail.com'}
 Contacts	ShowContactWithEmail	{'email': 'aleksy.niedzielski@wpl.pl'}
 Contacts	ShowContactWithEmail	{'email': 'jakub18981@o2.pl'}
-Contacts	ShowContactWithEmail	{'email': 'christina'}
+Contacts	ShowContactWithEmail	{'email': 'krystyna.wieczorek@o2.pl'}
 Contacts	ShowContactWithEmail	{'email': 'eleonora.grec@gmail.com'}
 Contacts	ShowContactWithEmail	{'email': 'eugeniusz.jakubowski@gmail.com'}
 Contacts	ShowContactWithEmail	{'email': 'kornelia.wiśniewski@wpl.pl'}
@@ -4013,7 +4013,7 @@ Contacts	ShowContactWithEmail	{'email': 'emil.sikora@interia.pl'}
 Contacts	ShowContactWithEmail	{'email': 'grzegorz27880@onet.pl'}
 Contacts	ShowContactWithName	{'name': 'jan padamczyk'}
 Contacts	ShowContactWithName	{'name': 'zdzisława wysocki'}
-Contacts	ShowContactWithName	{'name': 'tachan'}
+Contacts	ShowContactWithName	{'name': 'juda hen'}
 Contacts	ShowContactWithName	{'name': 'lullus chęciński'}
 Contacts	ShowContactWithName	{'name': 'beniamin kaczmarek'}
 Contacts	ShowContactWithName	{'name': 'darek jakubiuk'}
@@ -4028,7 +4028,7 @@ Contacts	ShowContactWithNumber	{'phone_number': '577 577 103'}
 Contacts	ShowContactWithNumber	{'phone_number': '591 134 309'}
 Contacts	ShowContactWithNumber	{'phone_number': '701 280 486'}
 Contacts	ShowContactWithNumber	{'phone_number': '708 485 865'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'oraz o adresie mailowym'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'izydor.marton@wp.pl', 'phone_number': '+48 699 781 860'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'kłodziński@o2.pl', 'phone_number': '578 353 888'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'konon.antczak@interia.pl', 'phone_number': '652 496 883'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'sławomira.bajno@onet.pl', 'phone_number': '500 445 866'}
@@ -4050,23 +4050,23 @@ Contacts	ShowContactWithNumberAndWithEmail	{'email': 'malachiasz@wp.pl', 'phone_
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'rufusek@gazeta.pl', 'phone_number': '+48 773 456 736'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'eufemia@gmail.com', 'phone_number': '696 742 636'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'maksymilian.reks@o2.pl', 'phone_number': '777 580 971'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'i se mailam'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'erwin.chabko@gmail.com', 'phone_number': '610 894 714'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'kenar@gazeta.pl', 'phone_number': '680 533 801'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'redzisz@interia.pl', 'phone_number': '573 997 274'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'danisława@onet.pl', 'phone_number': '747 592 537'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'i z adresem'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'jęczmionka@gmail.com', 'phone_number': '664 287 545'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'maurycy.bagrowski@wp.pl', 'phone_number': '662 221 305'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'donata.masłyk@onet.pl', 'phone_number': '593 253 231'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'dalmacjusz.bajur@onet.pl', 'phone_number': '675 512 798'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'malcheusz.kaleja@wp.pl', 'phone_number': '588 690 447'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'urban@gazeta.pl', 'phone_number': '612 846 184'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'walter.bajcar@gmail.com', 'phone_number': '624 450 878'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'mailem mi relali'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'mirela.lizurej@gazeta.pl', 'phone_number': '780 803 450'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'optat.sośnicki@o2.pl', 'phone_number': '539 474 133'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'lupus@gazeta.pl', 'phone_number': '552 615 374'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'wicio@onet.pl', 'phone_number': '650 495 968'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'i o adresie mailowym'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'oraz e-mailem sałka gazeta'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'bogumir@o2.pl', 'phone_number': '15 263 85 57'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'salka@gazeta.pl', 'phone_number': '54 769 51 80'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'janaś@gmail.com', 'phone_number': '723 464 544'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'stasiu@o2.pl', 'phone_number': '+48 547 253 152'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'owidiusz@onet.pl', 'phone_number': '624 911 550'}
@@ -4105,7 +4105,7 @@ Contacts	ShowContactWithNumberAndWithEmail	{'email': 'maja.obiegała@wp.pl', 'ph
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'cackowska@o2.pl', 'phone_number': '+48 785 185 686'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'oriana@gazeta.pl', 'phone_number': '574 587 362'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'jesiołkiewicz@interia.pl', 'phone_number': '734 335 489'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'oraz mailem maryny'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'maryn.reguła@o2.pl', 'phone_number': '561 782 109'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'sołtysik@o2.pl', 'phone_number': '+48 658 147 262'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'nalborczyk@interia.pl', 'phone_number': '539 892 593'}
 Contacts	ShowContactWithNumberAndWithEmail	{'email': 'zuzanna@gmail.com', 'phone_number': '584 671 692'}
@@ -4160,7 +4160,7 @@ Email	SendEmailToAddress	{'to': 'scholastyka@wp.pl'}
 Email	SendEmailToAddress	{'to': 'jamrożek@interia.pl'}
 Email	SendEmailToAddress	{'to': 'kosmal@gmail.com'}
 Email	SendEmailToAddress	{'to': 'światozar.gallas@o2.pl'}
-Email	SendEmailToAddress	{}
+Email	SendEmailToAddress	{'to': 'świetlana'}
 Email	SendEmailToAddress	{'to': 'seniuk@wp.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'bezalternatywny odnowiciel', 'to': 'wigilia@interia.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'fwd postępuj tak jak sugeruje', 'to': 'aza.marzęda@gazeta.pl'}
@@ -4172,7 +4172,7 @@ Email	SendEmailToAddressWithSubject	{'subject': 'exelano z finansowaniem nasion'
 Email	SendEmailToAddressWithSubject	{'subject': 'armatni tekturka', 'to': 'michał'}
 Email	SendEmailToAddressWithSubject	{'subject': 'zamiast komisji', 'to': 'lidia.szymański@o2.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'centrum reakcyjnej polityki', 'to': 'jan.martenka@gazeta.pl'}
-Email	SendEmailToAddressWithSubject	{}
+Email	SendEmailToAddressWithSubject	{'subject': 're produkty aironet wireless lan', 'to': 'modest.ćwiklińska@onet.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'struktura którą przyjęli', 'to': 'zachariasz@o2.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'energia elektryczna w państwie', 'to': 'kazimierz.knopp@interia.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 're ustalony okres czasu', 'to': 'lodzia'}
@@ -4199,7 +4199,7 @@ Email	SendEmailToAddressWithSubject	{'subject': 'deuterowy Boniek', 'to': 'kęps
 Email	SendEmailToAddressWithSubject	{'subject': 'rozrywka w przyszłym roku', 'to': 'maciuś'}
 Email	SendEmailToAddressWithSubject	{'subject': 'opłata osha', 'to': 'ursycyn@gazeta.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 'działalność w każdym miejscu', 'to': 'kazimiera@gmail.com'}
-Email	SendEmailToAddressWithSubject	{'subject': 'nowe numery konta padovelixa'}
+Email	SendEmailToAddressWithSubject	{'subject': 'nowe numery konta bpa', 'to': 'feliksa'}
 Email	SendEmailToAddressWithSubject	{'subject': 'dla marginalnego producenta', 'to': 'sarcia'}
 Email	SendEmailToAddressWithSubject	{'subject': 'i przyszłych liderów rynkowych', 'to': 'kazimierz.wysocki@gazeta.pl'}
 Email	SendEmailToAddressWithSubject	{'subject': 're kontrolowane przez regulatorów federalnych', 'to': 'napierała@interia.pl'}
@@ -4249,7 +4249,7 @@ Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'dokładnie brrrrr
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'cóż za niesamowicie zaskakujące wieści', 'subject': 'snażny Mrzygłód', 'to': 'alicja.szewczyk@wp.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'ewuniu po co twe słowa one polacy nie dadzą', 'subject': 'oberżynowy cynian', 'to': 'eleuteriusz.rachuba@gazeta.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'nauczcie się liczyć analfabeci', 'subject': 'rękawiczki chcą się ścigać', 'to': 'beata'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'treści pisząc niech będą lepsi niż to co było przez', 'subject': 'klientzi i nie', 'to': 'cleopatra'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'niech będą lepsi niż to co było przez 8 lat', 'subject': 'klienci i niezawodność', 'to': 'kleopatra'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'ma taką aryjską urodę', 'subject': 'ośmioletni złodziej', 'to': 'gusta'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'czyli jest nas więcej supe !', 'subject': 'wpływa na przemysłowe systemy energetyczne', 'to': 'ludmiła.jankowski@onet.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'zlikwidować przymus składek i tyle', 'subject': 'chronometryczny wybieg', 'to': 'edeltruda.narodzonek@onet.pl'}
@@ -4263,7 +4263,7 @@ Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'jak jes ? że ła
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'zdziwien ? mowilem to przed wyborami glupi my', 'subject': 'spacer w sąsiedztwie', 'to': 'benedykta.jakimów@gmail.com'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'sprawdzam', 'subject': 're odzyskuje się od uszkodzenia ramienia', 'to': 'bytniewski@onet.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'a co mają burzy ?jak polska jest w ruinie', 'subject': 'dwucyfrowy urzędniczek', 'to': 'natanael@onet.pl'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'treści do końca lipca', 'subject': 'tym rewięcej niż sprawiedliwy udział', 'to': 'z'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'do końca lipca 2020', 'subject': 're więcej niż sprawiedliwy udział', 'to': 'garus@gazeta.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'chciałbym złożyć zamówienie na regał sztokholm', 'subject': 'klasyczny szczerość', 'to': 'cezaria'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'my wasze rządy też pamiętamy', 'subject': 'fwd ułatwia efekt wzrostu', 'to': 'emeryk.renkiewicz@onet.pl'}
 Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'a ty coś za jeden tez gangster czy co !', 'subject': 'potrzebujesz pewnych działań ze swojej strony', 'to': 'wratysław.martewicz@gmail.com'}
@@ -4293,7 +4293,7 @@ Email	ShowEmailFromSender	{'sender_address': 'aleksander.pasternak@interia.pl'}
 Email	ShowEmailFromSender	{'sender_address': 'patrycja.towarek@gmail.com'}
 Email	ShowEmailFromSender	{'sender_address': 'jędrzej29696@o2.pl'}
 Email	ShowEmailFromSender	{'sender_address': 'władysław.podgórski@wpl.pl'}
-Email	ShowEmailFromSender	{'sender_address': 'na'}
+Email	ShowEmailFromSender	{'sender_address': 'anetta.wdowiak@interia.pl'}
 Email	ShowEmailFromSender	{'sender_address': 'joachim22538@gazeta.pl'}
 Email	ShowEmailFromSender	{'sender_address': 'radosław14844@onet.pl'}
 Email	ShowEmailFromSender	{'sender_address': 'bartłomiej.kłossowski@o2.pl'}
@@ -4307,7 +4307,7 @@ Email	ShowEmailFromTime	{'time': 'o 6:45'}
 Email	ShowEmailFromTime	{'time': 'o 1:30'}
 Email	ShowEmailFromTime	{'time': 'zeszłą środę'}
 Email	ShowEmailFromTime	{'time': 'o 20:45'}
-Email	ShowEmailFromTime	{'time': 'o'}
+Email	ShowEmailFromTime	{'time': 'o 17:45'}
 Email	ShowEmailFromTime	{'time': '23 godzin temu'}
 Email	ShowEmailFromTime	{'time': 'o 19:30'}
 Email	ShowEmailFromTime	{'time': 'o 23:30'}
@@ -4326,12 +4326,12 @@ Email	ShowEmailWithLabel	{'label': 'spam'}
 Email	ShowEmailWithLabel	{'label': 'ważne'}
 Email	ShowEmailWithLabel	{'label': 'spam'}
 Email	ShowEmailWithLabel	{'label': 'ważne'}
-Email	ShowEmailWithLabel	{'label': 'ця'}
+Email	ShowEmailWithLabel	{'label': 'ważne'}
 Email	ShowEmailWithPriority	{'priority': 'ważne'}
 Email	ShowEmailWithPriority	{'subject': 'fwd 9 meczów w tym roku'}
 Email	ShowEmailWithPriority	{'priority': 'kosz'}
 Email	ShowEmailWithPriority	{'priority': 'ważne'}
-Email	ShowEmailWithPriority	{'priority': 'waszej roboczy'}
+Email	ShowEmailWithPriority	{'priority': 'wersje robocze'}
 Email	ShowEmailWithPriority	{'priority': 'wysłane'}
 Email	ShowEmailWithPriority	{'priority': 'kosz'}
 Email	ShowEmailWithPriority	{'priority': 'odłożone'}
@@ -4339,7 +4339,7 @@ Email	ShowEmailWithPriority	{'priority': 'wersje robocze'}
 Email	ShowEmailWithPriority	{'priority': 'phd'}
 Email	ShowEmailWithPriority	{'priority': 'wersje robocze'}
 Email	ShowEmailWithSubject	{'subject': 'prosimy o zastosowanie dolarów'}
-Email	ShowEmailWithSubject	{'subject': 'w to sługi na najbliższe'}
+Email	ShowEmailWithSubject	{'subject': 'fwd usługi na najbliższe lata'}
 Email	ShowEmailWithSubject	{'subject': 'ekologiczny połóg'}
 Email	ShowEmailWithSubject	{'subject': 'dziesięcioletni dzikus'}
 Email	ShowEmailWithSubject	{'subject': 'tłumaczone dokumenty'}
@@ -4403,14 +4403,14 @@ Facebook	PostPictureWithCaption	{'caption': 'inicjacja'}
 Facebook	PostPictureWithCaption	{'caption': 'bristolski fascykuł'}
 Facebook	PostPictureWithCaption	{'caption': 'hymnodalny gaus'}
 Facebook	PostPictureWithCaption	{'caption': 'zugski anonimowość'}
-Facebook	PostPictureWithCaption	{'caption': 'patronite'}
-Facebook	PostPictureWithCaption	{'caption': 'hello'}
+Facebook	PostPictureWithCaption	{'caption': 'patronat'}
+Facebook	PostPictureWithCaption	{'caption': 'halal'}
 Facebook	PostPictureWithCaption	{'caption': 'nawet ciepła'}
 Facebook	PostPictureWithCaption	{'caption': 'retro'}
 Facebook	PostPictureWithUrl	{'picture_url': 'bit.ly/73nxu'}
 Facebook	PostPictureWithUrl	{'picture_url': 'imgur.com/ItKil'}
 Facebook	PostPictureWithUrl	{'picture_url': 'imgur.com/rearview'}
-Facebook	PostPictureWithUrl	{'picture_url': 'górcą'}
+Facebook	PostPictureWithUrl	{'picture_url': 'imgur.com/T9GAR'}
 Facebook	PostPictureWithUrl	{'picture_url': 'shorturl.at/shakable'}
 Facebook	PostPictureWithUrl	{'picture_url': 'cutt.ly/Y4WwNtJ'}
 Facebook	PostPictureWithUrl	{'picture_url': 'shorturl.at/oz616vI'}
@@ -4434,8 +4434,8 @@ Facebook	PostPictureWithUrl	{'picture_url': '9gag.com/GnBGK'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'litrowy szum', 'picture_url': 'bit.ly/Pqwr6'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'kozielski pamięć', 'picture_url': '9gag.com/k8mgd'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'pierzyna', 'picture_url': 'tinyurl.com/C3kX8e'}
-Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'z opisem', 'picture_url': 'neury'}
-Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'kamieniołą', 'picture_url': 'zomstowana'}
+Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'juliański szrama', 'picture_url': 'tinyurl.com/2E0VX'}
+Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'dystymiczny kamieniołom', 'picture_url': '9gag.com/SqnOvFa'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'bałaszowski świtka', 'picture_url': 'cutt.ly/ozFPcsX'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'antycyklonowy wzbudnik', 'picture_url': 'tinyurl.com/av3ak'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'bez serca', 'picture_url': '9gag.com/fEUOyW'}
@@ -4458,7 +4458,7 @@ Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'gastronomiczny opatrznoś
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'makiawelski jawczak', 'picture_url': 'shorturl.at/lCN9K'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'redemptorystowski sułkowski', 'picture_url': 'shorturl.at/rYtmnT'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'czesława', 'picture_url': 'tinyurl.com/0l4OLO'}
-Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'face z', 'picture_url': 'ingur'}
+Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'białostocki bogini', 'picture_url': 'imgur.com/AKA3lW'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'rosarium', 'picture_url': 'bit.ly/Ym443fl'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'kier', 'picture_url': 'cutt.ly/dipping'}
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'audiencyjny przymiot', 'picture_url': 'cutt.ly/pdEKg'}
@@ -4478,7 +4478,7 @@ Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'michniowski zamościanin'
 Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'służebny trafalgar', 'picture_url': 'cutt.ly/stunned'}
 Facebook	PostStatus	{'status': 'cała przyjemność po naszej stroni !'}
 Facebook	PostStatus	{'status': 'a widział pan inną dotychczas ?'}
-Facebook	PostStatus	{'status': 'niegram w grę mobilną'}
+Facebook	PostStatus	{'status': 'nie gram w gry mobilne'}
 Facebook	PostStatus	{'status': 'a co innego oni potrafią ?'}
 Facebook	PostStatus	{'status': 'czy warto kopać się z konie ?'}
 Facebook	PostStatus	{'status': 'druga rosja tylko wtedy gdy głodne'}
@@ -4490,7 +4490,7 @@ Facebook	PostStatus	{'status': 'jałowa dyskusja żegnam'}
 Facebook	PostStatus	{'status': 'spokojnej nocy'}
 Facebook	PostStatus	{'status': 'odwag !'}
 Facebook	PostStatus	{'status': '2 melony w błoto co za interes !'}
-Facebook	PostStatus	{'status': 'go inforapat formerski krecia'}
+Facebook	PostStatus	{'status': 'goń wora platformerski krecie'}
 Facebook	PostStatus	{'status': 'riposta na ciepło ^^'}
 Facebook	PostStatus	{'status': 'szerokiej drogi już czas'}
 Facebook	PostStatus	{'status': 'a alimenty zapłacil ?'}
@@ -4520,14 +4520,14 @@ Facebook	PostStatus	{'status': 'a najlepiej spotkać się w pindolino'}
 Facebook	PostStatus	{'status': 'na pewno nie od pana'}
 Facebook	ShowAlbumWithName	{'album': 'wakacje 2021'}
 Facebook	ShowAlbumWithName	{'album': 'norwegia'}
-Facebook	ShowAlbumWithName	{'album': 'mam'}
+Facebook	ShowAlbumWithName	{'album': 'memy'}
 Facebook	ShowAlbumWithName	{'album': 'zatrzymać chwilę'}
 Fitbit	AddWeight	{}
 Fitbit	AddWeight	{}
 Fitbit	AddWeight	{}
 Fitbit	AddWeight	{}
 Fitbit	NotifyOnWeight	{'weight': '93 kg'}
-Fitbit	NotifyOnWeight	{}
+Fitbit	NotifyOnWeight	{'weight': '61 kg'}
 Fitbit	NotifyOnWeight	{'weight': '63 kg'}
 Fitbit	NotifyOnWeight	{'weight': '79 kg'}
 Fitbit	ShowBMI	{}
@@ -4545,14 +4545,14 @@ Fitbit	ShowSteps	{}
 Fitbit	ShowSteps	{}
 Fitbit	ShowSteps	{}
 Fitbit	ShowSteps	{}
-Fitbit	ShowStepsOnDate	{'date': 'i psa'}
+Fitbit	ShowStepsOnDate	{'date': '1 lipca 2023'}
 Fitbit	ShowStepsOnDate	{'date': '4 marca'}
 Fitbit	ShowStepsOnDate	{'date': 'środę 23'}
 Fitbit	ShowStepsOnDate	{'date': '13 maja'}
 Fitbit	ShowStepsOnDate	{'date': 'niedzielę o 5'}
 Fitbit	ShowStepsOnDate	{'date': 'wtorek 31'}
 Fitbit	ShowStepsOnDate	{'date': 'środę 8'}
-Fitbit	ShowStepsOnDate	{'date': 'niedzielę'}
+Fitbit	ShowStepsOnDate	{'date': 'niedzielę o 9'}
 Fitbit	ShowStepsOnDate	{'date': 'wtorek o 18:30'}
 Fitbit	ShowStepsOnDate	{'date': '28 listopada'}
 Fitbit	ShowStepsOnDate	{'date': 'sobotę 12'}
@@ -4581,7 +4581,7 @@ Fitbit	ShowStepsOnDate	{'date': 'niedzielę o 23'}
 Fitbit	ShowStepsOnDate	{'date': 'piątek o 19'}
 Fitbit	ShowStepsOnDate	{'date': 'sobotę o 23:30'}
 Fitbit	ShowStepsOnDate	{'date': 'czwartek o 1'}
-Fitbit	ShowStepsOnDate	{'date': 'sobotę o'}
+Fitbit	ShowStepsOnDate	{'date': 'sobotę o 12:30'}
 Fitbit	ShowStepsOnDate	{'date': 'czwartek o 20:45'}
 Fitbit	ShowStepsOnDate	{'date': 'środę o 2'}
 Fitbit	ShowStepsOnDate	{'date': 'piątek o 1:30'}
@@ -4624,7 +4624,7 @@ Fitbit	ShowStepsOnDate	{'date': '29 stycznia'}
 Fitbit	ShowStepsOnDate	{'date': 'piątek o 17:30'}
 Fitbit	ShowStepsOnDate	{'date': 'wtorek o 16'}
 Fitbit	ShowStepsOnDate	{'date': 'środę o 5:17'}
-Fitbit	ShowStepsOnDate	{}
+Fitbit	ShowStepsOnDate	{'date': '30 sierpnia'}
 Fitbit	ShowStepsOnDate	{'date': '25 maja'}
 Fitbit	ShowStepsOnDate	{'date': '11 sierpnia'}
 Fitbit	ShowStepsOnDate	{'date': 'niedzielę 31'}
@@ -4643,8 +4643,8 @@ Fitbit	ShowStepsOnDate	{'date': 'poniedziałek o 10'}
 Fitbit	ShowStepsOnDate	{'date': '25 października'}
 Fitbit	ShowStepsOnDate	{'date': '18 marca 2024'}
 Fitbit	ShowStepsOnDate	{'date': '28 lipca'}
-Fitbit	ShowStepsOnDate	{'date': 'środą'}
-Fitbit	ShowStepsOnDate	{'date': 'września'}
+Fitbit	ShowStepsOnDate	{'date': 'środę 29'}
+Fitbit	ShowStepsOnDate	{'date': '25 września'}
 Gdrive	CreateFile	{}
 Gdrive	CreateFile	{}
 Gdrive	CreateFile	{}
@@ -4657,7 +4657,7 @@ Gdrive	CreateFile	{}
 Gdrive	CreateFile	{}
 Gdrive	CreateFile	{}
 Gdrive	CreateFile	{}
-Gdrive	CreateFileWithName	{'file_name': 'bielowiot'}
+Gdrive	CreateFileWithName	{'file_name': 'lov_io_c'}
 Gdrive	CreateFileWithName	{'file_name': 'feed_blob_op_h'}
 Gdrive	CreateFileWithName	{'file_name': 'template_team_health_pdf'}
 Gdrive	CreateFileWithName	{'file_name': 'splash_gif'}
@@ -4688,8 +4688,8 @@ Gdrive	CreateFileWithName	{'file_name': 'rmac_regions_op_cu'}
 Gdrive	OpenFileWithName	{'file_name': 'drive_download_20170411T192100Z_001_zip'}
 Gdrive	OpenFileWithName	{'file_name': 'emoji_ts'}
 Gdrive	OpenFileWithName	{'file_name': 'rip_xml'}
-Gdrive	OpenFileWithName	{'file_name': 'z'}
-Gdrive	OpenFileWithName	{}
+Gdrive	OpenFileWithName	{'file_name': 'SLT_paperprocedings_pdf'}
+Gdrive	OpenFileWithName	{'file_name': '1810_03552_pdf'}
 Gdrive	OpenFileWithName	{'file_name': 'make-big-lm_stdout'}
 Gdrive	OpenFileWithName	{'file_name': 'mlx4_en_h'}
 Gdrive	OpenFileWithName	{'file_name': 'rados_h'}
@@ -4709,7 +4709,7 @@ Gdrive	OpenGdrive	{}
 Gdrive	OpenGdrive	{}
 Gdrive	ShareFileWithNameToAddress	{'file_name': 'max77802_txt', 'mail': 'adrianna.stawecki@wpl.pl'}
 Gdrive	ShareFileWithNameToAddress	{'file_name': 'purposeless_xml', 'mail': 'radosław.kędzierski@gazeta.pl'}
-Gdrive	ShareFileWithNameToAddress	{'file_name': 'stojranożuga', 'mail': 'etapy'}
+Gdrive	ShareFileWithNameToAddress	{'file_name': 'mkbb_c', 'mail': 'ireneusz27715@gazeta.pl'}
 Gdrive	ShowFilesFromTime	{'time': 'o 12:15'}
 Gdrive	ShowFilesFromTime	{'time': 'zeszłą środę'}
 Gdrive	ShowFilesFromTime	{'time': '10 godzin temu'}
@@ -4742,7 +4742,7 @@ Gdrive	ShowFilesWithStar	{}
 Gdrive	ShowFilesWithType	{'mime_type': 'tsv'}
 Gdrive	ShowFilesWithType	{'mime_type': '7z'}
 Gdrive	ShowFilesWithType	{'mime_type': 'bin'}
-Gdrive	ShowFilesWithType	{}
+Gdrive	ShowFilesWithType	{'mime_type': 'gif'}
 Gdrive	ShowFilesWithType	{'mime_type': 'pptx'}
 Gdrive	ShowFilesWithType	{'mime_type': 'bin'}
 Gdrive	ShowFilesWithType	{'mime_type': 'tsv'}
@@ -4799,7 +4799,7 @@ Instagram	PostWithLastPictureWithLocationAndWithHashtag	{'location': 'karaczi'}
 Instagram	PostWithLastPictureWithLocationAndWithHashtag	{'filter': 'willow'}
 Instagram	PostWithLastPictureWithLocationAndWithHashtag	{'location': 'gieczu'}
 Instagram	PostWithLastPictureWithLocationAndWithHashtag	{'filter': 'crema'}
-Instagram	PostWithPicturesFromDateAndWithLocation	{'date_day': 'w', 'date_month': 'listopadzie w', 'location': 'łabica'}
+Instagram	PostWithPicturesFromDateAndWithLocation	{'date_day': '15', 'date_month': 'listopadzie w', 'location': 'ławica'}
 Instagram	PostWithPicturesFromDateAndWithLocation	{'date_day': '2', 'date_month': 'marcu na kolaż'}
 Instagram	PostWithPicturesFromDateAndWithLocation	{'date_day': '22', 'date_month': 'grudniu w', 'location': 'fabianowo'}
 Instagram	PostWithPicturesFromDateAndWithLocation	{'date_month': 'czerwcu', 'location': 'wyspa sobieszewska'}
@@ -4816,7 +4816,7 @@ Instagram	PostWithPicturesFromDateAndWithLocation	{'date_month': 'lipcu', 'locat
 Instagram	PostWithPicturesFromDateAndWithLocation	{'date_day': '1', 'date_month': 'listopadzie w', 'location': 'moskwie'}
 Instagram	ShowLastNumberPictures	{'count': '34'}
 Instagram	ShowLastNumberPictures	{'count': '68'}
-Instagram	ShowLastNumberPictures	{'count': 'zdjęcie'}
+Instagram	ShowLastNumberPictures	{'count': '35'}
 Instagram	ShowLastNumberPictures	{'count': '4'}
 Instagram	ShowLastNumberPictures	{'count': '52'}
 Instagram	ShowLastNumberPictures	{'count': '31'}
@@ -4828,7 +4828,7 @@ Instagram	ShowLastNumberPictures	{'count': '80'}
 Instagram	ShowLastNumberPictures	{'count': '70'}
 Instagram	ShowLastNumberPictures	{'count': '85'}
 Instagram	ShowLastNumberPictures	{'count': '2'}
-Instagram	ShowLastNumberPictures	{'count': 'zdjęcie'}
+Instagram	ShowLastNumberPictures	{'count': '91'}
 Instagram	ShowLastNumberPictures	{'count': '63'}
 Instagram	ShowLastNumberPictures	{'count': '64'}
 Instagram	ShowLastNumberPictures	{'count': '30'}
@@ -4848,7 +4848,7 @@ Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
 Instagram	ShowPictures	{}
-Instagram	ShowPicturesFromDate	{'date_day': 'lipsu'}
+Instagram	ShowPicturesFromDate	{'date_day': '19', 'date_month': 'lipcu'}
 Instagram	ShowPicturesFromDate	{'date_day': '8', 'date_month': 'lipcu'}
 Instagram	ShowPicturesFromDate	{'date_day': '14', 'date_month': 'kwietniu'}
 Instagram	ShowPicturesFromDate	{'date_day': '24', 'date_month': 'wrześniu'}
@@ -4866,7 +4866,7 @@ Instagram	ShowPicturesFromDate	{'date_month': 'sierpniu'}
 Instagram	ShowPicturesWithFilter	{'filter': 'lark'}
 Instagram	ShowPicturesWithFilter	{'filter': 'reyes'}
 Instagram	ShowPicturesWithFilter	{'filter': 'slumber'}
-Instagram	ShowPicturesWithFilter	{'filter': 'filmują'}
+Instagram	ShowPicturesWithFilter	{'filter': 'juno'}
 Instagram	ShowPicturesWithFilter	{'filter': 'willow'}
 Instagram	ShowPicturesWithFilter	{'filter': 'clarendon'}
 Instagram	ShowPicturesWithFilter	{'filter': 'rise'}
@@ -4879,7 +4879,7 @@ Instagram	ShowPicturesWithFilter	{'filter': 'valencia'}
 Instagram	ShowPicturesWithFilter	{'filter': 'ludwig'}
 Instagram	ShowPicturesWithFilter	{'filter': 'juno'}
 Instagram	ShowPicturesWithFilter	{'filter': 'moon'}
-Instagram	ShowPicturesWithFilter	{'filter': 'larp'}
+Instagram	ShowPicturesWithFilter	{'filter': 'lark'}
 Instagram	ShowPicturesWithFilter	{'filter': 'crema'}
 Instagram	ShowPicturesWithFilter	{'filter': 'amaro'}
 Instagram	ShowPicturesWithFilter	{'filter': 'juno'}
@@ -4890,7 +4890,7 @@ Instagram	ShowPicturesWithFilter	{'filter': 'aden'}
 Instagram	ShowPicturesWithFilter	{'filter': 'moon'}
 Instagram	ShowPicturesWithFilter	{'filter': 'clarendon'}
 Instagram	ShowPicturesWithFilter	{'filter': 'hefe'}
-Instagram	ShowPicturesWithHashtag	{'hashtag': 'nowaciu'}
+Instagram	ShowPicturesWithHashtag	{'hashtag': 'innovation'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'instagramforbusiness'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'businesstips'}
 Instagram	ShowPicturesWithHashtag	{'hashtag': 'yummy'}
@@ -4915,7 +4915,7 @@ Instagram	ShowPicturesWithLocation	{'location': 'remsen'}
 Instagram	ShowPicturesWithLocation	{'location': 'zielone wzgórza'}
 Instagram	ShowPicturesWithLocation	{'location': 'evart'}
 Instagram	ShowPicturesWithLocation	{'location': 'canyon dam'}
-Instagram	ShowPicturesWithLocation	{'location': 'knowle'}
+Instagram	ShowPicturesWithLocation	{'location': 'knowlesville'}
 Instagram	ShowPicturesWithLocation	{'location': 'szczepankowo'}
 Instagram	ShowPicturesWithLocation	{'location': 'beatty'}
 Instagram	ShowPicturesWithLocation	{'location': 'wildersville'}
@@ -4954,7 +4954,7 @@ Instagram	ShowPicturesWithLocation	{'location': 'doran'}
 Instagram	ShowPicturesWithLocation	{'location': 'bolinko'}
 Instagram	ShowPicturesWithLocation	{'location': 'grunwald północ'}
 Instagram	ShowPicturesWithLocation	{'location': 'oporów'}
-Instagram	ShowPicturesWithLocation	{}
+Instagram	ShowPicturesWithLocation	{'location': 'grantham'}
 Instagram	ShowPicturesWithLocation	{'location': 'haynes'}
 Instagram	ShowPicturesWithLocation	{'location': 'golęcino'}
 Instagram	ShowPicturesWithLocation	{'location': 'marienthal'}
@@ -4981,18 +4981,18 @@ News	NotifyWhenPortalUpdates	{'portal': 'wp.pl'}
 News	NotifyWhenPortalUpdates	{'portal': 'wp.pl'}
 News	NotifyWhenPortalUpdates	{'portal': 'asz dziennik'}
 News	NotifyWhenPortalUpdates	{'portal': 'asz dziennik'}
-News	NotifyWhenPortalUpdates	{'portal': 'to im'}
+News	NotifyWhenPortalUpdates	{'portal': 'tvp info'}
 News	NotifyWhenPortalUpdates	{'portal': 'times polska'}
 News	NotifyWhenPortalUpdates	{'portal': 'tvn24'}
 News	NotifyWhenPortalUpdates	{'portal': 'wp.pl'}
 News	NotifyWhenPortalUpdates	{'portal': 'onet.pl'}
 News	NotifyWhenPortalUpdates	{'portal': 'tvn24'}
 News	NotifyWhenPortalUpdates	{'portal': 'wp.pl'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'kimes polska', 'section': 'polityka'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'times polska', 'section': 'polityka'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'tvp info', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'wp.pl', 'section': 'polityka'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'onet.pl', 'section': 'technologia'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'wpływ', 'section': 'opublikuj'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'wp.pl', 'section': 'zdrowie'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'asz dziennik', 'section': 'polityka'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'onet.pl', 'section': 'technologia'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'times polska', 'section': 'sport'}
@@ -5025,7 +5025,7 @@ News	NotifyWhenPortalUpdatesInSection	{'portal': 'wp.pl', 'section': 'technologi
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'onet.pl', 'section': 'technologia'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'tvn24', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'tvp info', 'section': 'polityka'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'o', 'section': 'w'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'onet.pl', 'section': 'gwiazdy'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'asz dziennik', 'section': 'technologia'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'times polska', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'wp.pl', 'section': 'zdrowie'}
@@ -5040,11 +5040,11 @@ News	NotifyWhenPortalUpdatesInSection	{'portal': 'onet.pl', 'section': 'sport'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'times polska', 'section': 'zdrowie'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'tvn24', 'section': 'polityka'}
 News	NotifyWhenPortalUpdatesInSection	{'portal': 'wp.pl', 'section': 'technologia'}
-News	ShowNews	{'portal': 'onet'}
+News	ShowNews	{'portal': 'onet.pl'}
 News	ShowNews	{'portal': 'times polska'}
 News	ShowNews	{'portal': 'onet.pl'}
 News	ShowNews	{'portal': 'times polska'}
-News	ShowNews	{'portal': 'onet'}
+News	ShowNews	{'portal': 'onet.pl'}
 News	ShowNews	{'portal': 'asz dziennik'}
 News	ShowNews	{'portal': 'asz dziennik'}
 News	ShowNews	{'portal': 'tvp info'}
@@ -5080,7 +5080,7 @@ News	ShowNewsFromSection	{'portal': 'onet.pl'}
 News	ShowNewsFromSection	{'portal': 'tvp info'}
 News	ShowNewsFromSection	{'portal': 'asz dziennik'}
 News	ShowNewsFromSection	{'portal': 'tvp info'}
-News	ShowNewsFromSection	{'portal': 'tym'}
+News	ShowNewsFromSection	{'portal': 'tvn24'}
 News	ShowNewsFromSection	{'portal': 'tvn24'}
 News	ShowNewsFromSection	{'portal': 'wp.pl'}
 News	ShowNewsFromSection	{'portal': 'tvp info'}
@@ -5128,14 +5128,14 @@ Phone	SMSToContact	{'to': 'patrycja'}
 Phone	SMSToContact	{'to': 'anastazja stawecki'}
 Phone	SMSToContact	{'to': 'daniela wyrzykowski'}
 Phone	SMSToContact	{'to': 'stefania'}
-Phone	SMSToContactWithMessage	{'message': 'platforma się toczy jak kamyk z góry', 'to': 'olgier cichora'}
+Phone	SMSToContactWithMessage	{'message': 'platforma się toczy jak kamyk z góry', 'to': 'olgierd sikora'}
 Phone	SMSToContactWithMessage	{'message': 'juz zostalem poprawiony to jest podpisywacz', 'to': 'judyta majewski'}
 Phone	SMSToContactWithMessage	{'message': 'jesteście bezczelni', 'to': 'małgorzata'}
 Phone	SMSToContactWithMessage	{'message': 'co odpowiadasz ?', 'to': 'marianna skiba'}
 Phone	SMSToContactWithMessage	{'message': 'na start do czego?', 'to': 'pakosław hain'}
-Phone	SMSToContactWithMessage	{'message': 'ci nadal swoje domące do'}
+Phone	SMSToContactWithMessage	{'message': 'a ci nadal swoje tonący', 'to': 'paćkowski'}
 Phone	SMSToContactWithMessage	{'message': 'tęcze wywieźli a rysiu się z tym identyfikuje', 'to': 'adam topolski'}
-Phone	SMSToContactWithMessage	{'message': 'odkryć ci coś za niesamowicie', 'to': 'wieści do'}
+Phone	SMSToContactWithMessage	{'message': 'cóż za niesamowicie zaskakujące wieści', 'to': 'magda wdowiak'}
 Phone	SMSToContactWithMessage	"{'message': ""to powiedział jakubiak z kukia'15"", 'to': 'ozeasz'}"
 Phone	SMSToContactWithMessage	{'message': 'a coś trzeba zmieniać przecież było tak dobrze', 'to': 'walenty'}
 Phone	SMSToContactWithMessage	{'message': 'to jego klon tylko jeszcze bardziej nieudany', 'to': 'sewastianowicz'}
@@ -5175,7 +5175,7 @@ Slack	CheckMessagesFromUser	{'sender': 'józef'}
 Slack	CheckMessagesFromUser	{'sender': 'kinga'}
 Slack	CheckMessagesFromUser	{'sender': 'aleksy'}
 Slack	CheckMessagesFromUser	{'sender': 'bartosz towarek'}
-Slack	CheckMessagesInChannel	{'channel': 'kanale'}
+Slack	CheckMessagesInChannel	{'channel': 'zoidberg'}
 Slack	CheckMessagesInChannel	{'channel': 'scc'}
 Slack	CheckMessagesInChannel	{'channel': 'kanal'}
 Slack	CheckMessagesInChannel	{'channel': 'jelita_filo'}
@@ -5197,7 +5197,7 @@ Slack	CheckUserStatus	{'username': 'marlena wojciechowski'}
 Slack	OpenSlack	{}
 Slack	SendMessageToChannel	{'channel': 'kanał sales', 'message': 'jakie są'}
 Slack	SendMessageToChannel	{'channel': 'sales dakar', 'message': 'jakieś fakt i liczby?'}
-Slack	SendMessageToChannel	{'channel': 'majestits projekty z', 'message': 'polskim w dani czy w amerykańskim'}
+Slack	SendMessageToChannel	{'channel': 'majestic 12 project', 'message': 'mhm w polskim wydaniu czy w amerykańskim ?'}
 Slack	SendMessageToChannel	{'channel': 'finance taiwan', 'message': 'nie jem nie chcą mnie'}
 Slack	SendMessageToChannel	{'channel': 'structured finance', 'message': 'popieram wyszczekany przywódca'}
 Slack	SendMessageToChannel	{'channel': 'class for physics', 'message': 'zaraz wracam'}
@@ -5217,7 +5217,7 @@ Slack	SendPictureToChannel	{'channel': 'mergers and acquisitions'}
 Slack	SendPictureToChannel	{'channel': '3d modeling'}
 Slack	SendPictureToChannel	{'channel': 'software development'}
 Slack	SendPictureToChannel	{'channel': 'finance egypt'}
-Slack	SendPictureToChannel	{'channel': 'tsubisupres coś'}
+Slack	SendPictureToChannel	{'channel': 'cubism project'}
 Slack	SendPictureToChannel	{'channel': 'street art project'}
 Slack	SendPictureToChannel	{'channel': 'panama'}
 Slack	SendPictureToChannel	{'channel': 'triage sales'}
@@ -5225,7 +5225,7 @@ Slack	SendPictureToChannel	{'channel': 'finance malta'}
 Slack	SendPictureToChannel	{'channel': 'finance monaco'}
 Slack	SendPictureToChannel	{'channel': 'announce new features'}
 Slack	SendPictureToChannel	{'channel': 'trade show booth design'}
-Slack	SendPictureToChannel	{'channel': 'ewpresjonism art preszki'}
+Slack	SendPictureToChannel	{'channel': 'expressionism art project'}
 Slack	SendPictureToChannel	{'channel': 'brussels'}
 Slack	SendPictureToChannel	{'channel': 'rich media ads'}
 Slack	SendPictureToChannel	{'channel': 'x files'}
@@ -5234,14 +5234,14 @@ Slack	SendPictureToChannelWithCaption	{'caption': 'czytajcie', 'channel': 's0s'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'jakie mimozy', 'channel': 'zlomformatyk'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'zobacz jaki hipster', 'channel': 'frontend'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'dziękuję', 'channel': 'wiara'}
-Slack	SendPictureToChannelWithCaption	{'caption': 'dobrej noc', 'channel': 'den'}
+Slack	SendPictureToChannelWithCaption	{'caption': 'dobrej nocy', 'channel': 'dont'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'wreszcie', 'channel': 'uw-team'}
-Slack	SendPictureToChannelWithCaption	{'caption': 'dobramoc', 'channel': 'lad'}
+Slack	SendPictureToChannelWithCaption	{'caption': 'dobranoc', 'channel': 'cysioland'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'tak jest', 'channel': 'miedzy_wschodem_a_zachodem'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'oglądamy', 'channel': 'religie'}
 Slack	SendPictureWithUrlToChannel	{'channel': 'test222', 'picture_url': 'shorturl.at/AzgP99H'}
 Slack	SendSlackMessage	{}
-Slack	SetPurposeOnChannel	{'channel': 'a', 'purpose': 'pojezd'}
+Slack	SetPurposeOnChannel	{'channel': 'fedipol', 'purpose': 'demo'}
 Slack	SetStatusAway	{}
 Slack	SetStatusAway	{}
 Slack	SetTopicInChannel	{'channel': 'acid', 'topic': 'deadline'}
@@ -5265,7 +5265,7 @@ Speaker	IncreaseVolumeByPercent	{}
 Speaker	IncreaseVolumeByPercent	{'percent': '10'}
 Speaker	IncreaseVolumeByPercent	{'percent': '15'}
 Speaker	IncreaseVolumeByPercent	{'percent': '5'}
-Speaker	IncreaseVolumeByPercent	{'percent': 'procent'}
+Speaker	IncreaseVolumeByPercent	{'percent': '100'}
 Speaker	MuteOff	{}
 Speaker	MuteOn	{}
 Speaker	TurnOnOrOff	{}
@@ -5279,7 +5279,7 @@ Spotify	AddAlbumToPlaylist	{'album': 'black friday do listy', 'playlist': 'trap 
 Spotify	AddAlbumToPlaylist	{'album': 'data horde do listy odtwarzania która się nazywa', 'playlist': 'modern chill rock'}
 Spotify	AddAlbumToPlaylist	{'album': 'hymn to moisture do listy o nazwie', 'playlist': 'do biegania'}
 Spotify	AddAlbumToPlaylist	{'album': 'hyperion do mojej listy odtwarzania która się nazywa', 'playlist': 'do sprzątania'}
-Spotify	AddAlbumToPlaylist	{'album': 'pełnię do listy odtwarzania o nazwie', 'playlist': 'letnich i'}
+Spotify	AddAlbumToPlaylist	{'album': 'pełnia do listy odtwarzania o nazwie', 'playlist': 'letni chill'}
 Spotify	AddAlbumToPlaylist	{'album': 'eraserland na mojej liście odtwarzania o nazwie', 'playlist': 'country coffeehouse'}
 Spotify	AddAlbumToPlaylist	{'album': 'r.y.c na liście odtwarzania która się nazywa', 'playlist': 'generacja hip hop'}
 Spotify	AddAlbumToPlaylist	{'album': 'się poruszam 1 na mojej playliście o nazwie', 'playlist': 'polskie hity'}
@@ -5295,7 +5295,7 @@ Spotify	AddSongToPlaylist	{}
 Spotify	AddSongToPlaylist	{}
 Spotify	AddSongToPlaylist	{}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'classical music for metalheads'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'sons of the rainforest'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'sounds of the rain forest'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'gym mood'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'metal ballads'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'off the strength'}
@@ -5306,10 +5306,10 @@ Spotify	AddSongToPlaylistWithName	{'playlist': 'workday lounge'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'spread the gospel'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'metal empire'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'badass women'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'radim'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'reading'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'all 80s out'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'unlimite indie'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'biorącej'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'runnig'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'dance rising'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'neo classical lounge'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'rock gaming'}
@@ -5323,9 +5323,9 @@ Spotify	AddSongToPlaylistWithName	{'playlist': 'easy 80s'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'noises after dark'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'rise up'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'soft rock'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'warp'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'work'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'weekend hangouts'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'ma siedem cechid'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'massive dance hits'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'grime instrumentals'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'massive drum and bass'}
 Spotify	AddSongToPlaylistWithName	{'playlist': 'lullabells'}
@@ -5340,7 +5340,7 @@ Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'hype', 'song': 'paco'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'discovery', 'song': 'the man with no heart or brain'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'road trip to tokyo', 'song': 'we will'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'strings for sleeping', 'song': 'you are here'}
-Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'si cal', 'song': 'torma do'}
+Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'classical essentials', 'song': 'door man'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'my funeral songs', 'song': 'baila pa mi'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'cocktail jazz', 'song': 'beautiful texas sunshine'}
 Spotify	AddSongWithNameToPlaylistWithName	{'playlist': 'grunge forever', 'song': 'not this time'}
@@ -5370,7 +5370,7 @@ Spotify	CreatePlaylistWithName	{'playlist': 'workday lounge'}
 Spotify	CreatePlaylistWithName	{'playlist': 'friday cratediggers'}
 Spotify	CreatePlaylistWithName	{'playlist': 'mixtape #1'}
 Spotify	CreatePlaylistWithName	{'playlist': 'rock roadtrip'}
-Spotify	CreatePlaylistWithName	{}
+Spotify	CreatePlaylistWithName	{'playlist': 'new hits 2022'}
 Spotify	CreatePlaylistWithName	{'playlist': 'my illusions'}
 Spotify	CreatePlaylistWithName	{'playlist': 'channel x'}
 Spotify	CreatePlaylistWithName	{'playlist': 'break up songs'}
@@ -5379,13 +5379,13 @@ Spotify	CreatePlaylistWithName	{'playlist': 'the cookout'}
 Spotify	CreatePlaylistWithName	{'playlist': 'african jams'}
 Spotify	CreatePlaylistWithName	{'playlist': 'pink noise'}
 Spotify	CreatePlaylistWithName	{'playlist': 'stepping out'}
-Spotify	CreatePlaylistWithName	{'playlist': 'listę majestatka'}
+Spotify	CreatePlaylistWithName	{'playlist': 'main stage'}
 Spotify	CreatePlaylistWithName	{'playlist': 'video game soundtracks'}
 Spotify	CreatePlaylistWithName	{'playlist': 'metal essentials'}
 Spotify	CreatePlaylistWithName	{'playlist': 'binaural beats'}
 Spotify	CreatePlaylistWithName	{'playlist': 'my delights'}
 Spotify	CreatePlaylistWithName	{'playlist': 'woodstock'}
-Spotify	CreatePlaylistWithName	{'playlist': 'batlepla'}
+Spotify	CreatePlaylistWithName	{'playlist': 'battle plan'}
 Spotify	CreatePlaylistWithName	{'playlist': 'next from nashville'}
 Spotify	NextSong	{}
 Spotify	NextSong	{}
@@ -5399,7 +5399,7 @@ Spotify	Pause	{}
 Spotify	PlayAlbumOfTypeByArtist	{'album': 'lageos', 'artist': 'the drums'}
 Spotify	PlayAlbumOfTypeByArtist	{'album': 'obiecaj mi', 'artist': 'boy harsher'}
 Spotify	PlayAlbumOfTypeByArtist	{'album': 'trzy słońca', 'artist': 'magic dirt'}
-Spotify	PlayPlaylist	{'playlist': 'cofaj że opuści'}
+Spotify	PlayPlaylist	{'playlist': 'coffee shop music'}
 Spotify	PlayPlaylist	{'playlist': 'push button funk'}
 Spotify	PlayPlaylist	{'playlist': 'vinyasa flow'}
 Spotify	PlayPlaylist	{'playlist': 'long shadows'}
@@ -5439,7 +5439,7 @@ Spotify	PlaySongByArtist	{'artist': 'bunnymen', 'song': 'col lin thinks its a re
 Spotify	PlaySongByArtist	{'artist': 'natalie', 'song': 'entregue sua vida'}
 Spotify	PlaySongByArtist	{'artist': 'on september 16', 'song': 'hate is not the answer'}
 Spotify	PlaySongByArtist	{'artist': 'civian', 'song': 'high school days'}
-Spotify	PlaySongByArtist	{'artist': 'chrystlasis na', 'song': 'polepia w sumach'}
+Spotify	PlaySongByArtist	{'artist': 'chris classic', 'song': 'polar bear summer'}
 Spotify	PlaySongByArtist	{'artist': 'the trip', 'song': 'you asshole you'}
 Spotify	PlaySongByArtist	{'artist': 'ilaria porceddu', 'song': 'meditazione'}
 Spotify	PlaySongByArtist	{'artist': 'deviser', 'song': 'schyzophrenic carnage'}
@@ -5457,8 +5457,8 @@ Spotify	PlaySongByArtist	{'artist': 'ollie barbieri', 'song': 'pide perdon'}
 Spotify	PlaySongByArtist	{'artist': 'jule styne', 'song': 'carrying you'}
 Spotify	PlaySongByArtist	{'artist': 'nosotrash', 'song': 'changing woman'}
 Spotify	PlaySongByArtist	{'artist': 'afrorican', 'song': 'screwtape'}
-Spotify	PlaySongByArtist	{'artist': 'tymią mnie', 'song': 'kawałek lastriece ale ty'}
-Spotify	PlaySongByArtist	{'artist': 'malo', 'song': 'hardpreg quaranteed'}
+Spotify	PlaySongByArtist	{'artist': 'johnny b', 'song': 'electric all the time'}
+Spotify	PlaySongByArtist	{'artist': 'malu', 'song': 'heartbreak guaranteed'}
 Spotify	PlaySongByArtist	{'artist': 'hey', 'song': 'ghosts of dawn'}
 Spotify	PlaySongByArtist	{'artist': 'karen o', 'song': 'kerry getz'}
 Spotify	PlaySongByArtist	{'artist': 'jan-rapowanie', 'song': 'lively'}
@@ -5468,7 +5468,7 @@ Spotify	PlaySongByArtist	{'artist': 'richard dawson', 'song': 'in den strassen v
 Spotify	PlaySongByArtist	{'artist': 'daryl braithwaite', 'song': 'to a baser nature'}
 Spotify	PlaySongByArtist	{'artist': 's.m.s.', 'song': 'rosa sangue'}
 Spotify	PlaySongByArtist	"{'artist': ""hit'n'hide"", 'song': 'we know the night'}"
-Spotify	PlaySongByArtist	{'artist': 'varą', 'song': 'norris'}
+Spotify	PlaySongByArtist	{'artist': 'varon', 'song': 'norris'}
 Spotify	PlaySongByArtist	{'artist': 'thyne scabbard', 'song': 'i have a little girl'}
 Spotify	PlaySongByArtist	{'artist': 'his daughter', 'song': 'the pathfinder and the prophetess'}
 Spotify	PlaySongByArtist	{'artist': 'brian robbins', 'song': 'its no secret'}
@@ -5484,7 +5484,7 @@ Spotify	PlaySongByArtist	{'artist': 'ryan schmidt', 'song': 'fermez la bouche'}
 Spotify	PlaySongByArtist	{'artist': 'claude', 'song': 'smoke on the water'}
 Spotify	PlaySongByArtist	{'artist': 'vankhanh', 'song': 'the band of gold'}
 Spotify	PlaySongByArtist	{'artist': 'adam cody', 'song': 'wer mit dir steht'}
-Spotify	PlaySongByArtist	{'song': 'bloku od'}
+Spotify	PlaySongByArtist	{'artist': 'bandidos', 'song': 'bloque 3'}
 Spotify	PlaySongByArtist	{'artist': 'jostle', 'song': 'cold dark river'}
 Spotify	PlaySongByArtist	{'artist': 'headplate', 'song': 'far into the fields'}
 Spotify	PlaySongByArtist	{'artist': 'madleaf', 'song': 'sad to say goodbye'}
@@ -5496,7 +5496,7 @@ Spotify	PlaySongByArtist	{'artist': 'renato russo', 'song': 'destiny ceilings'}
 Spotify	PlaySongByArtist	{'artist': 'hedningarna', 'song': 'specially for little girls'}
 Spotify	PlaySongByArtist	{'artist': 'boyz 2 girls', 'song': 'star flower'}
 Spotify	PlaySongByArtist	{'artist': 'machine', 'song': 'take charge'}
-Spotify	PlaySongByArtist	{'song': 'josons motortzar arteste'}
+Spotify	PlaySongByArtist	{'artist': 'i love you', 'song': 'johnsons motor car'}
 Spotify	PreviousSong	{}
 Spotify	PreviousSong	{}
 Spotify	PreviousSong	{}
@@ -5536,9 +5536,9 @@ Translate	TranslateText	{'text_en': 'may i have a bottle of beer'}
 Translate	TranslateText	{'text_en': 'do you have a safe'}
 Translate	TranslateText	{'text_en': 'the check please'}
 Translate	TranslateText	{'text_en': 'i am from germany'}
-Translate	TranslateText	{'text_en': 'tomora'}
+Translate	TranslateText	{'text_en': 'tomorrow'}
 Translate	TranslateText	{'text_en': 'yellow'}
-Translate	TranslateText	{'text_en': 'rąk'}
+Translate	TranslateText	{'text_en': 'rum'}
 Translate	TranslateText	{'text_en': 'can you help me'}
 Translate	TranslateText	{'text_en': 'when is closing time'}
 Translate	TranslateText	{'text_en': 'july'}
@@ -5556,8 +5556,8 @@ Translate	TranslateText	{'text_en': 'can you suggest another hotel'}
 Translate	TranslateText	{'text_en': 'is there someone here who speaks english'}
 Translate	TranslateText	{'text_en': 'with pleasure'}
 Translate	TranslateText	{'text_en': 'the week before last week'}
-Translate	TranslateTextFromLanguage	{'src_lang_de': 'języka', 'text_de': 'tłumaczku ten'}
-Translate	TranslateTextFromLanguage	{'src_lang_it': 'tego', 'text_it': 'na lekiara ona ma'}
+Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'guten tag'}
+Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'desidero noleggiare una macchina'}
 Translate	TranslateTextFromLanguage	{'src_lang_fr': 'francuskiego', 'text_fr': 'des grenouilles'}
 Translate	TranslateTextFromLanguage	{'src_lang_fr': 'francuskiego', 'text_fr': 'lunch'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'reis'}
@@ -5600,7 +5600,7 @@ Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': '
 Translate	TranslateTextFromLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'la semana pasada'}
 Translate	TranslateTextFromLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'poproszę stolik dla dwóch osób'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'pranzo a prezzo fisso'}
-Translate	TranslateTextFromLanguage	{'text_es': 'słów z'}
+Translate	TranslateTextFromLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'los huevos'}
 Translate	TranslateTextFromLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'good day'}
 Translate	TranslateTextFromLanguage	{'src_lang_fr': 'francuskiego', 'text_fr': 'coca'}
 Translate	TranslateTextFromLanguage	"{'src_lang_fr': 'francuskiego', 'text_fr': ""aidez-moi s'il vous plaît""}"
@@ -5648,7 +5648,7 @@ Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': '
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'marzo'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'coca cola'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'braun'}
-Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'gra'}
+Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'geradeaus'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'ich brauche einen arzt'}
 Translate	TranslateTextFromLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'beef'}
 Translate	TranslateTextFromLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'ham'}
@@ -5677,13 +5677,13 @@ Translate	TranslateTextFromLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'szl
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'ho bisogno di libri in inglese'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'non mangio il manzo'}
 Translate	TranslateTextFromLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'etwas gegen erkältung'}
-Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'bonasera'}
+Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'buona sera'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'certamente'}
 Translate	TranslateTextFromLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'viola'}
-Translate	TranslateTextFromLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'i stieraj samą na herę po spaksem'}
-Translate	TranslateTextFromLanguage	{'src_lang_es': 'ci', 'text_es': 'zdania na'}
+Translate	TranslateTextFromLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'is there someone here who speaks english'}
+Translate	TranslateTextFromLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'necesito tampón'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'the check please'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'tłumacz prosto z zumbą', 'trg_lang_en': 'angielskie'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'prost or zum wohl', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'a las dos de la tarde', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'ayer', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'francuskiego', 'text_fr': 'comment allez-vous', 'trg_lang_pl': 'polski'}
@@ -5719,7 +5719,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polskiego', 'text
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_en': 'angielskiego', 'text_en': 'yellow', 'trg_lang_it': 'włoski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'zgubiłem portfel', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'übermorgen', 'trg_lang_fr': 'francuski'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'gieza', 'text_de': 'mi z', 'trg_lang_es': 'z'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'englischsprachige zeitschriften', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'abends', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'francuskiego', 'text_fr': 'acceptez-vous les cartes de credit', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'bringen sie mich bitte dahin', 'trg_lang_es': 'hiszpański'}
@@ -5739,7 +5739,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 
 Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_fr': 'francuskiego', 'text_fr': ""un demi s'il-vous-plaît"", 'trg_lang_pl': 'polski'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'wurst', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'übermorgen', 'trg_lang_fr': 'francuski'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'na', 'text_it': 'coś z'}
+Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_it': 'włoskiego', 'text_it': ""che cos'è"", 'trg_lang_es': 'hiszpański'}"
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'a la una de la tarde', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'adónde me llevas', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'cuánto tiempo puedo aparcarme aquí', 'trg_lang_en': 'angielski'}
@@ -5771,7 +5771,7 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'francuskiego', 't
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'brot', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'buon giorno', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'chiamo la polizia', 'trg_lang_de': 'niemiecki'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'czerwone wina', 'trg_lang_de': 'niemiecki'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'czerwone wino', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'cómo puedo llegar a el albergue juvenil', 'trg_lang_it': 'włoski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'diecisiete', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'włoskiego', 'text_it': 'diesel', 'trg_lang_pl': 'polski'}
@@ -5788,14 +5788,14 @@ Translate	TranslateTextFromLanguageToLanguage	{'src_lang_fr': 'francuskiego', 't
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'señorita', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_pl': 'polskiego', 'text_pl': 'to było nieporozumienie', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguage	{'src_lang_de': 'niemieckiego', 'text_de': 'wie ist der wechselkurs', 'trg_lang_pl': 'polski'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'z', 'trg_lang_de': 'niemiecki'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'na', 'text_it': 'kłant i cambio'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang_it': 'sam', 'text_it': 'le a', 'trg_lang_en': 'z'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang_es': 'hiszpańskiego', 'text_es': 'señora', 'trg_lang_de': 'niemiecki'}
+Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_it': 'włoskiego', 'text_it': ""quant'è il cambio"", 'trg_lang_pl': 'polski'}"
+Translate	TranslateTextFromLanguageToLanguage	"{'src_lang_it': 'włoskiego', 'text_it': ""l'acqua frizzante"", 'trg_lang_en': 'angielski'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'angielskiego', 'text_en': 'beans', 'translator': 'deepl', 'trg_lang_pl': 'polski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'angielskiego', 'text_en': 'beer', 'translator': 'microsoft', 'trg_lang_it': 'włoski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'bonne journee', 'translator': 'microsoft', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'buenos días', 'translator': 'google', 'trg_lang_pl': 'polski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'coka', 'translator': 'gołba', 'trg_lang_es': 'hiszpański'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'coke', 'translator': 'google', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'come arrivare a', 'translator': 'microsoft', 'trg_lang_pl': 'polski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'comment vous appellez vous', 'translator': 'microsoft', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'dans la soirée', 'translator': 'yandex', 'trg_lang_it': 'włoski'}
@@ -5821,7 +5821,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskie
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskiego', 'text_pl': 'proszę posprzątać mój pokój', 'translator': 'yandex', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'angielskiego', 'text_en': 'saturday', 'translator': 'microsoft', 'trg_lang_pl': 'polski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'un œuf', 'translator': 'google', 'trg_lang_en': 'angielski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'na', 'text_en': 'urewelcone z', 'trg_lang_es': 'przy'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_en': 'angielskiego', 'text_en': ""you're welcome"", 'translator': 'yandex', 'trg_lang_es': 'hiszpański'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'veintiuno', 'translator': 'google', 'trg_lang_pl': 'polski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'versenden sie auch', 'translator': 'deepl', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'vorfahrt gewähren', 'translator': 'microsoft', 'trg_lang_it': 'włoski'}
@@ -5883,7 +5883,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francu
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'salat', 'translator': 'microsoft', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskiego', 'text_pl': 'szary', 'translator': 'deepl', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'tengo algo para declarar', 'translator': 'deepl', 'trg_lang_en': 'angielski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'strenthest', 'text_fr': 'this now for', 'translator': 'misrosof', 'trg_lang_en': 'suskegon'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'dix-neuf heures trente', 'translator': 'microsoft', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'tranvía', 'translator': 'google', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francuskiego', 'text_fr': ""une pinte s'il vous plait"", 'translator': 'deepl', 'trg_lang_es': 'hiszpański'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'where is an automatic teller machine', 'translator': 'microsoft', 'trg_lang_pl': 'polski'}
@@ -5898,7 +5898,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francus
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'benzina', 'translator': 'google', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'bergauf', 'translator': 'google', 'trg_lang_pl': 'polski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'blu', 'translator': 'google', 'trg_lang_pl': 'polski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'z', 'text_it': 'był on', 'translator': 'użyciu', 'trg_lang_fr': 'na'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'buon giorno', 'translator': 'microsoft', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_it': 'włoskiego', 'text_it': ""c'è una specialità della casa"", 'translator': 'yandex', 'trg_lang_de': 'niemiecki'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'conosco solo alcune parole in italiano', 'translator': 'google', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francuskiego', 'text_fr': ""dans l'après-midi"", 'translator': 'google', 'trg_lang_pl': 'polski'}"
@@ -5924,7 +5924,7 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francu
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskiego', 'text_pl': 'pięćdziesiąt', 'translator': 'deepl', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskiego', 'text_pl': 'policja', 'translator': 'microsoft', 'trg_lang_it': 'włoski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'posso avere una busta', 'translator': 'yandex', 'trg_lang_en': 'angielski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'jasna', 'text_it': 'posłał że reumachasi', 'translator': 'przy', 'trg_lang_fr': 'włoskiego'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_it': 'włoskiego', 'text_it': ""posso avere un'assicurazione"", 'translator': 'deepl', 'trg_lang_fr': 'francuski'}"
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'prima', 'translator': 'yandex', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_pl': 'polskiego', 'text_pl': 'proszę mnie tam zawieźć', 'translator': 'google', 'trg_lang_de': 'niemiecki'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francuskiego', 'text_fr': ""qu'est-ce que vous avez à la pression"", 'translator': 'yandex', 'trg_lang_en': 'angielski'}"
@@ -5953,33 +5953,33 @@ Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpa�
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_fr': 'francuskiego', 'text_fr': 'quinze', 'translator': 'yandex', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'rum', 'translator': 'microsoft', 'trg_lang_es': 'hiszpański'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	"{'src_lang_fr': 'francuskiego', 'text_fr': ""s'il vous plaît"", 'translator': 'deepl', 'trg_lang_en': 'angielski'}"
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'taści', 'translator': 'misro', 'trg_lang_it': 'włoski'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'taxi', 'translator': 'microsoft', 'trg_lang_it': 'włoski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'teuer', 'translator': 'deepl', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_de': 'niemieckiego', 'text_de': 'vorfahrt gewähren', 'translator': 'yandex', 'trg_lang_en': 'angielski'}
 Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_en': 'angielskiego', 'text_en': 'water', 'translator': 'google', 'trg_lang_pl': 'polski'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'i', 'text_es': 'było do bagarłona multa a', 'translator': 'wnict', 'trg_lang_fr': 'na'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'na', 'text_it': 'piancus', 'trg_lang_fr': 'gołba'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_es': 'hiszpańskiego', 'text_es': 'puedo pagar una multa ahora', 'translator': 'microsoft', 'trg_lang_fr': 'francuski'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang_it': 'włoskiego', 'text_it': 'bianco', 'translator': 'google', 'trg_lang_fr': 'francuski'}
 Translate	TranslateTextToLanguage	{'text_en': 'do you ship overseas', 'trg_lang_general': 'hiszpański'}
 Translate	TranslateTextToLanguage	{'text_en': 'fish', 'trg_lang_general': 'hiszpański'}
 Translate	TranslateTextToLanguage	"{'text_en': ""i don't eat pork"", 'trg_lang_general': 'niemiecki'}"
 Translate	TranslateTextToLanguage	{'text_en': 'i need shampoo', 'trg_lang_general': 'polski'}
 Translate	TranslateTextToLanguage	{'text_en': 'cheap', 'trg_lang_general': 'fiński'}
 Translate	TranslateTextToLanguage	{'text_en': 'saturday', 'trg_lang_general': 'hiszpański'}
-Translate	TranslateTextToLanguage	{'text_en': 'co na uchanie monoforma', 'trg_lang_general': 'niemiecki'}
+Translate	TranslateTextToLanguage	{'text_en': 'can you change money for me', 'trg_lang_general': 'niemiecki'}
 Translate	TranslateTextToLanguage	{'text_en': 'where is airport', 'trg_lang_general': 'tajski'}
 Translate	TranslateTextToLanguage	{'text_en': 'west', 'trg_lang_general': 'niemiecki'}
-Translate	TranslateTextToLanguage	{'text_en': 'do spacenglish na hiszpański'}
+Translate	TranslateTextToLanguage	{'text_en': 'do you speak english', 'trg_lang_general': 'hiszpański'}
 Translate	TranslateTextToLanguage	"{'text_en': ""that's too expensive"", 'trg_lang_general': 'polski'}"
 Translate	TranslateToLanguage	{'trg_lang_general': 'fiński'}
 Twitter	FollowUser	{'username': 'corza9919'}
 Twitter	FollowUser	{'username': 'xsassyxo'}
 Twitter	FollowUser	{'username': 'muertenthesnw'}
 Twitter	FollowUser	{'username': 'chunkyface'}
-Twitter	FollowUser	{'username': 'kiedy'}
+Twitter	FollowUser	{'username': 'kdigilio'}
 Twitter	FollowUser	{'username': 'newmutant'}
 Twitter	OpenTwitter	{}
 Twitter	OpenTwitter	{}
-Twitter	SendMessageToUser	{'message': 'paszpospolské dybela', 'username': 'treści'}
+Twitter	SendMessageToUser	{'message': 'od 966 jako panstwo po juz wtedy byla?', 'username': 'ericmikhaels'}
 Twitter	SendMessageToUser	{'message': 'powodzenia', 'username': 'lavagal'}
 Twitter	SendMessageToUser	{'message': 'znajomi pstyszki ?', 'username': 'boofish'}
 Twitter	SendMessageToUser	{'message': 'ok to całe szczęście pozdrawiam', 'username': 'natalief'}
@@ -5990,7 +5990,7 @@ Twitter	SendMessageToUser	{'message': 'na pewno nie zagłosuję na po', 'usernam
 Twitter	SendTwitterMessage	{'message': 'leonardów'}
 Twitter	SendTwitterMessage	{'message': 'pan z poznania? fakty na który temat?'}
 Twitter	SendTwitterMessage	{'message': 'robią to dla hajsu i fejma zero przyzwoitości'}
-Twitter	SendTwitterMessage	{'message': 'nic podobnego'}
+Twitter	SendTwitterMessage	{'message': 'nic podobnego!'}
 Twitter	SendTwitterMessage	{'message': 'a gazetkabeznapletka zaleca łuczywo'}
 Twitter	SendTwitterMessage	{'message': '499% tyle dostaniecie'}
 Twitter	SendTwitterMessage	{'message': 'a gdzie macie biuro w poznaniu ?'}
@@ -6010,7 +6010,7 @@ Twitter	ShowTwittsWithHashtag	{'hashtag': 'phpkonferenca'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'shootfest'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'blogchat'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'twittypop'}
-Twitter	ShowTwittsWithHashtag	{}
+Twitter	ShowTwittsWithHashtag	{'hashtag': 'bing'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'rządpis'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'salsa4change'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'carlin'}
@@ -6019,7 +6019,7 @@ Twitter	ShowTwittsWithHashtag	{'hashtag': 'ahbl'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'twittertaleover'}
 Twitter	UnfollowUser	{'username': 'ganstalicious'}
 Twitter	UnfollowUser	{'username': 'luvmyrandomness'}
-Weather	MoonphaseInLocation	{}
+Weather	MoonphaseInLocation	{'location': 'szczecinek'}
 Weather	MoonphaseInLocation	{'location': 'bochnia'}
 Weather	MoonphaseInLocation	{'location': 'poznaniu'}
 Weather	MoonphaseInLocationOnDate	{'date': 'jutra w', 'location': 'buenos aires'}
@@ -6034,7 +6034,7 @@ Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'piątku', 'location': 'swo
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'jutra', 'location': 'zakopane'}
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'następnej środy', 'location': 'wzgórza krzesławickie'}
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'jutra', 'location': 'stare miasto'}
-Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'w styczniu', 'location': 'dla'}
+Weather	SunriseAndSunsetInLocationAndOnDate	{'date': '13 stycznia', 'location': 'kinszasa'}
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'piątku', 'location': 'parczew'}
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': '13 stycznia', 'location': 'sankt petersburg'}
 Weather	SunriseAndSunsetInLocationAndOnDate	{'date': 'piątku', 'location': 'psie pole'}
@@ -6058,7 +6058,7 @@ Weather	WeatherInLocation	{'location': 'brętowo'}
 Weather	WeatherTomorrow	{}
 Weather	WeatherTomorrow	{}
 Weather	WeatherTomorrowInLocation	{'location': 'wilanów'}
-Weather	WeatherTomorrowInLocation	{'location': 'targówak'}
+Weather	WeatherTomorrowInLocation	{'location': 'targówek'}
 Weather	WeatherTomorrowInLocation	{'location': 'skorupy'}
 Weather	WeatherTomorrowInLocation	{'location': 'drzetowo'}
 Weather	WeatherTomorrowInLocation	{'location': 'krzesiny'}
@@ -6090,7 +6090,7 @@ Websearch	SearchImagesWithTextOnEngine	{'img_query': 'memy o szkole'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'pizza'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'adidas'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'klawiatura'}
-Websearch	SearchImagesWithTextOnEngine	{'img_query': 'kadmii szuflitowej'}
+Websearch	SearchImagesWithTextOnEngine	{'img_query': 'karnisz sufitowy'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'praca'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'samsung logo'}
 Websearch	SearchImagesWithTextOnEngine	{'img_query': 'sztokholm'}
@@ -6137,13 +6137,13 @@ Websearch	SearchImagesWithTextOnEngine	{'img_query': 'karty'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'azowski pianista'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'bolimuszka'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'palermski mitek'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'piasecki za'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'piasecki zapomoga'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'ekologiczny połóg'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'posykiwanie'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'chudziutki pianobeton'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'picasso'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'kruszwicki pieszczoszek'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'o'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'alotropia'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'ałmacki Melnik'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'kareński ornitolog'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'kuroniówka'}
@@ -6157,7 +6157,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'rady
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'deska tarasowa'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'nuty'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'zagródka'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'i wieprzyniż'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kusiutki Kiełbowicz'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'hetmański kret'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'falliczny samochodzik'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezkastowy sol'}
@@ -6167,8 +6167,8 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'arnikowy klezmer'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kopernikowy Godfryd'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'nowoatoński gnilec'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'puławskich gromad'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'ubędzijne i'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'puławski higrometr'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'rozpuszczalny oględziny'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'błagojewgradzki kronselka'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'emu'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kermański anglofob'}
@@ -6177,7 +6177,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bremeński galernik'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'iberyjski dwupłatowiec'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'jezydzki Morawiec'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kostnałkiem mistrz'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kostny ogniomistrz'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'luryjski odważniak'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'naiwniutki brzuszek'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'północnoosetyjski policzek'}
@@ -6189,10 +6189,10 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dany rdzeń'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'niekulturalny serwer'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'potiomkinowski Józefczyk'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'świecie trovera'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'ćwierćlitrowy rokambuł'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'przeciwgruźliczy wybuch'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'cesarzewiczowski Kowaniec'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'sekularnych wieprz'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'sekularny wieprz'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezśnieżny Twardowski'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bluza champion'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'fryzury'}
@@ -6222,7 +6222,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'rubens'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'Chilon'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'alokucja'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'mercedes-brain i'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'mercedes gla'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'pięćdziesięcioośmioletni paczkownia'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'północnofrancuski wójtostwo'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'rudawski mirakl'}
@@ -6240,10 +6240,10 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dwulufowy relatywność'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'klingoński faeton'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'potwarczy beż'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'pada'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'padaczka'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'pięćdziesięcioczteroletni Libia'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'plenarny Kulak'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'antymalezijskich jaworzniak'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'antymalezyjski jaworzniak'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'burżujski kanalarz'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'ergonomika'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezzwrotny wyporność'}
@@ -6279,10 +6279,10 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'pogrypowy adherent'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'poranny krzemień'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'smartwatch'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dystemiczne kamieniołom'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dystymiczny kamieniołom'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezsznurowy troler'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kaszubski Biernacki'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'zwane holoceń'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'zwany holocen'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'akcesyjny Jakowicz'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'arulański salka'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezsprzeczny antytradycjonalizm'}
@@ -6295,7 +6295,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bogorodzki Castorama'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kanibalski Barnaś'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'mąkodajny potraw'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'sławki'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'Sławek'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'zróżnicowany rupieć'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'Matlak'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dywersja'}
@@ -6317,7 +6317,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'tattoo'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'trunek'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'życzenia noworoczne 2020'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'narodzkiej za'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'narolski zawadiackość'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kormorani Zieńczuk'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'głaskanie'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kampański donna'}
@@ -6362,7 +6362,7 @@ Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'i
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'białystok'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'segedyński iluminizm'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'południowojakucki sośniak'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'w jeszcze'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'wieszczy Fijałkowski'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'antyaliancki jujitsu'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'arcysmaczny Foltak'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bezproblemowy drapieżność'}
@@ -6429,7 +6429,7 @@ Websearch	SearchTextOnEngine	{'txt_query': 'jan szyszko'}
 Websearch	SearchTextOnEngine	{'txt_query': 'ppk'}
 Websearch	SearchTextOnEngine	{'txt_query': 'dawid żukowski'}
 Websearch	SearchTextOnEngine	{'txt_query': 'loteria kasztelan'}
-Websearch	SearchTextOnEngine	{'txt_query': 'pisaria'}
+Websearch	SearchTextOnEngine	{'txt_query': 'pizzeria'}
 Websearch	SearchTextOnEngine	{'txt_query': 'blog z apetytem'}
 Websearch	SearchTextOnEngine	{'txt_query': 'oferty pracy'}
 Websearch	SearchTextOnEngine	{'txt_query': 'respirator cena'}
@@ -6454,14 +6454,14 @@ Websearch	SearchTextOnEngine	{'txt_query': 'gg logowanie'}
 Websearch	SearchTextOnEngine	{'txt_query': 'koleo'}
 Websearch	SearchTextOnEngine	{'txt_query': 'mroczne materie'}
 Websearch	SearchTextOnEngine	{'txt_query': 'poczta gmail'}
-Websearch	SearchTextOnEngine	{'txt_query': 'na'}
+Websearch	SearchTextOnEngine	{'txt_query': 'wizaz'}
 Websearch	SearchTextOnEngine	{'txt_query': 'bergamotka'}
 Websearch	SearchTextOnEngine	{'txt_query': 'kobe bryant'}
 Websearch	SearchTextOnEngine	{'txt_query': 'swieta wielkanocne 2020'}
 Websearch	SearchTextOnEngine	{'txt_query': 'śledzenie przesyłek'}
 Websearch	SearchTextOnEngine	{'txt_query': 'pit'}
 Websearch	SearchTextOnEngine	{'txt_query': 'panele winylowe'}
-Websearch	SearchTextOnEngine	{'txt_query': 'kino kalerja mocin'}
+Websearch	SearchTextOnEngine	{'txt_query': 'kino galeria młociny'}
 Websearch	SearchTextOnEngine	{'txt_query': 'żel antybakteryjny'}
 Websearch	SearchTextOnEngine	{'txt_query': 'gumtree kraków'}
 Websearch	SearchTextOnEngine	{'txt_query': 'xtreme fitness'}
@@ -6560,7 +6560,7 @@ Yelp	SearchByCategory	{'category_a': 'włoskie'}
 Yelp	SearchByCategory	{'category_a': 'japońskie'}
 Yelp	SearchByCategory	{'category_a': 'tajskie'}
 Yelp	SearchByCategoryInLocation	{'category_b': 'kuchnia tajska', 'location': 'mistrzejowice'}
-Yelp	SearchByCategoryInLocation	{'category_b': 'kuchnia chinińska', 'location': 'słaszowic'}
+Yelp	SearchByCategoryInLocation	{'category_b': 'kuchnia chińska', 'location': 'swoszowice'}
 Yelp	SearchByCategoryInLocation	{'category_a': 'francuskie', 'location': 'sołtysowice'}
 Yelp	SearchByCategoryInLocation	{'category_a': 'indonezyjskie', 'location': 'bojary'}
 Yelp	SearchByCategoryInLocation	{'category_b': 'kuchnia polska', 'location': 'centrum'}
@@ -6588,9 +6588,9 @@ Yelp	SearchByQuery	{'query': 'polską restaurację'}
 Yelp	SearchByQuery	{'query': 'kurczak casserole'}
 Yelp	SearchByQueryInLocation	{'location': 'załęże', 'query': 'restaurację kalifornijską'}
 Yelp	SearchByQueryInLocation	{'location': 'muchowiec', 'query': 'restaurację uzbecką'}
-Yelp	SearchByQueryInLocation	{'location': 'śródmieście', 'query': 'restaurację alaskajską'}
+Yelp	SearchByQueryInLocation	{'location': 'śródmieście', 'query': 'restaurację alaskańską'}
 Yelp	SearchByQueryInLocation	{'location': 'giszowiec', 'query': 'pizza'}
-Yelp	SearchByRating	{'rating': 'gwiazdkami'}
+Yelp	SearchByRating	{'rating': '4'}
 Yelp	SearchByRating	{'rating': '5'}
 Yelp	SearchByRating	{'rating': '3'}
 Yelp	SearchByRating	{'rating': '3'}
@@ -6607,11 +6607,11 @@ Yelp	SearchByRatingInLocation	{'location': 'thompson ridge', 'rating': '3'}
 Yelp	SearchByRatingInLocation	{'location': 'pompey', 'rating': '5'}
 Yelp	SearchByRatingInLocation	{'location': 'wildwood', 'rating': '4'}
 Yelp	SearchByRatingInLocation	{'location': 'auburn hills', 'rating': '4'}
-Yelp	SearchByRatingInLocation	{'location': 'toales'}
+Yelp	SearchByRatingInLocation	{'location': 'tooele', 'rating': '5'}
 Yelp	SearchByRatingInLocation	{'location': 'collettsville', 'rating': '4'}
 Yelp	SearchByReviewCount	{'review_count': '600'}
 Yelp	SearchByReviewCount	{'review_count': '300'}
-Yelp	SearchByReviewCount	{'review_count': 'ocenę'}
+Yelp	SearchByReviewCount	{'review_count': '200'}
 Yelp	SearchByReviewCount	{'review_count': '10'}
 Yelp	SearchByReviewCount	{'review_count': '10000'}
 Yelp	SearchByReviewCount	{'review_count': '15'}
@@ -6637,17 +6637,17 @@ Yelp	SearchByReviewCountInLocation	{'location': 'normangee', 'review_count': '15
 Yelp	SearchByReviewCountInLocation	{'location': 'davey', 'review_count': '75'}
 Yelp	SearchByReviewCountInLocation	{'location': 'haynes', 'review_count': '30'}
 Yelp	SearchByReviewCountInLocation	{'location': 'kewaunee', 'review_count': '900'}
-Yelp	SearchByReviewCountInLocation	{'location': 'zająć paris', 'review_count': 'ocen'}
+Yelp	SearchByReviewCountInLocation	{'location': 'saint paris', 'review_count': '600'}
 Yelp	SearchByReviewCountInLocation	{'location': 'gallupville', 'review_count': '10'}
 Yelp	SearchInLocation	{'location': 'beaver springs'}
 Yelp	SearchInLocation	{'location': 'chesterfield'}
-Yelp	SearchInLocation	{'location': 'west mammothys'}
+Yelp	SearchInLocation	{'location': 'west memphis'}
 Yelp	SearchRestaurant	{}
 Yelp	SearchRestaurant	{}
 Yelp	SearchRestaurant	{}
 Yelp	SearchRestaurant	{}
 Yelp	SearchRestaurant	{}
-Youtube	FindChannelWithQuery	{'query': 'um policjant'}
+Youtube	FindChannelWithQuery	{'query': 'young policja'}
 Youtube	FindChannelWithQuery	{'query': 'manchester city vs tottenham'}
 Youtube	FindQuery	{'query': 'jacus'}
 Youtube	FindQuery	{'query': 'więzień miłości 249 napisy pl'}
@@ -6663,8 +6663,8 @@ Youtube	FindQuery	{'query': 'ona by tak chciała bez przekleństw'}
 Youtube	FindQuery	{'query': 'property brothers'}
 Youtube	FindQuery	{'query': '10000 hours'}
 Youtube	FindQuery	{'query': 'ada'}
-Youtube	FindQueryOnChannel	{'channel_id': 'tourista', 'query': 'do'}
-Youtube	FindQueryOnChannel	{'channel_id': 'opublikowane tiski mf-owny', 'query': 'famma'}
+Youtube	FindQueryOnChannel	{'channel_id': 'touristytraveler', 'query': 'fortnite'}
+Youtube	FindQueryOnChannel	{'channel_id': 'tickle me funny', 'query': 'fame mma 4'}
 Youtube	FindQueryOnChannel	{'channel_id': 'fly', 'query': 'drift'}
 Youtube	FindQueryOnChannel	{'channel_id': 'sage farm', 'query': 'alice in wonderland'}
 Youtube	FindQueryOnChannel	{'channel_id': 'aboutto', 'query': 'pitbull'}
@@ -6686,22 +6686,22 @@ Youtube	FindQueryOnChannel	{'channel_id': 'raredesk', 'query': 'sernik'}
 Youtube	FindQueryOnChannel	{'channel_id': 'the content factory', 'query': 'lektor pl'}
 Youtube	FindQueryOnChannel	{'channel_id': 'video venture', 'query': 'nie mów nikomu'}
 Youtube	FindQueryOnChannel	{'channel_id': 'blissretro', 'query': 'gaja hornby'}
-Youtube	FindQueryOnChannel	{'channel_id': 'hanna', 'query': 'do mała'}
+Youtube	FindQueryOnChannel	{'channel_id': 'channellabel', 'query': 'mała baluje'}
 Youtube	FindQueryOnChannel	{'channel_id': 'fitforfun', 'query': 'rezi'}
 Youtube	FindQueryOnChannel	{'channel_id': 'not brangelina', 'query': 'miłość'}
 Youtube	FindQueryOnChannel	{'channel_id': 'witty one', 'query': 'wiezien milosci odc 336 napisy polskie'}
 Youtube	FindQueryOnChannel	{'channel_id': 'travelingtribe', 'query': 'botoks'}
-Youtube	FindQueryOnChannel	{'channel_id': 'lowe w atel do', 'query': 'christmas'}
+Youtube	FindQueryOnChannel	{'channel_id': 'love what you do', 'query': 'christmas'}
 Youtube	FindQueryOnChannel	{'channel_id': 'adventureseekers', 'query': 'huawei'}
 Youtube	FindQueryOnChannel	{'channel_id': 'bright side', 'query': 'to'}
 Youtube	FindQueryOnChannel	{'channel_id': 'cultureclashkid', 'query': 'mini majk'}
 Youtube	FindQueryOnChannel	{'channel_id': 'event planner by blox', 'query': 'głowacki briedis'}
 Youtube	FindQueryOnChannel	{'channel_id': 'fragrancefinder', 'query': 'disco polo'}
-Youtube	FindQueryOnChannel	{'channel_id': 'sierci', 'query': 'do'}
+Youtube	FindQueryOnChannel	{'channel_id': 'exerciseexcitement', 'query': 'acne'}
 Youtube	FindQueryOnChannel	{'channel_id': 'dazzlingdeity', 'query': 'versace on the floor'}
 Youtube	FindQueryOnChannel	{'channel_id': 'play and tell', 'query': 'trofea'}
 Youtube	FindQueryOnChannel	{'channel_id': 'roamingromantic', 'query': 'policja'}
-Youtube	FindQueryOnChannel	{'channel_id': 'od', 'query': 'do domek w'}
+Youtube	FindQueryOnChannel	{'channel_id': 'candycrush', 'query': 'domek w karkonoszach'}
 Youtube	FindQueryOnChannel	{'channel_id': 'party animal', 'query': 'samsung a80'}
 Youtube	FindQueryOnChannel	{'channel_id': 'roblox builder', 'query': 'weekend'}
 Youtube	FindQueryOnChannel	{'channel_id': 'space city', 'query': 'prawo jazdy'}
@@ -6717,11 +6717,11 @@ Youtube	FindQueryOnChannel	{'channel_id': 'cosmeticconnoisseur', 'query': 'tatto
 Youtube	FindQueryOnChannel	{'channel_id': 'couples hub', 'query': 'riverdale'}
 Youtube	FindQueryOnChannel	{'channel_id': 'foodcomatv', 'query': 'lana del rey'}
 Youtube	FindQueryOnChannel	{'channel_id': 'league of legends lover', 'query': 'bayern crvena zvezda'}
-Youtube	FindQueryOnChannel	{'channel_id': 'gilgun które'}
+Youtube	FindQueryOnChannel	{'channel_id': 'girl gang', 'query': 'basen'}
 Youtube	FindQueryOnChannel	{'channel_id': 'beachbumming', 'query': 'notre dame'}
 Youtube	FindQueryOnChannel	{'channel_id': 'epic gamers forever', 'query': 'pocztówka z wwa'}
 Youtube	FindQueryOnChannel	{'channel_id': 'roblox and tell', 'query': 'hejka tu marcel'}
-Youtube	FindQueryOnChannel	{'channel_id': 'wirtual dudę', 'query': 'ziemkiewicz'}
+Youtube	FindQueryOnChannel	{'channel_id': 'virtual dude', 'query': 'ziemkiewicz'}
 Youtube	FindQueryOnChannel	{'channel_id': 'cineamasin', 'query': 'akwarium'}
 Youtube	FindQueryOnChannel	{'channel_id': 'marshmello', 'query': 'kante'}
 Youtube	FindQueryOnChannel	{'channel_id': 'nomnomnation', 'query': 'au au'}
@@ -6739,10 +6739,10 @@ Youtube	FindQueryOnChannel	{'channel_id': 'troop', 'query': 'mowa ptaków'}
 Youtube	FindQueryOnChannel	{'channel_id': 'armorretro', 'query': 'lil pump'}
 Youtube	FindQueryOnChannel	{'channel_id': 'barely editing', 'query': 'szmitek magazyn'}
 Youtube	FindQueryOnChannel	{'channel_id': 'manic stream', 'query': 'au'}
-Youtube	FindQueryOnChannel	{'channel_id': 'family', 'query': 'do disco'}
-Youtube	FindQueryOnChannel	{'channel_id': 'odpasujące', 'query': 'i wam na'}
-Youtube	FindQueryOnChannel	{'channel_id': 'kidalwa', 'query': 'ptka'}
-Youtube	FindQueryOnChannel	{'channel_id': 'planetem', 'query': 'piosenki minas'}
+Youtube	FindQueryOnChannel	{'channel_id': 'familyvolt', 'query': 'disco polo'}
+Youtube	FindQueryOnChannel	{'channel_id': 'woods', 'query': 'sobie i wam'}
+Youtube	FindQueryOnChannel	{'channel_id': 'kindalpha', 'query': 'bed gay'}
+Youtube	FindQueryOnChannel	{'channel_id': 'planetand', 'query': 'piosenki minecraft'}
 Youtube	FindQueryOnChannel	{'channel_id': 'acuity', 'query': 'bella'}
 Youtube	FindQueryOnChannel	{'channel_id': 'imagifamily', 'query': 'masno fest'}
 Youtube	FindQueryOnChannel	{'channel_id': 'beachand', 'query': 'alan walker on my way'}
@@ -6803,12 +6803,12 @@ Youtube	FindQueryOnChannel	{'channel_id': 'pastaplace', 'query': 'złota fala'}
 Youtube	FindQueryOnChannel	{'channel_id': 'the diy team', 'query': 'alan walker on my way'}
 Youtube	FindQueryOnChannel	{'channel_id': 'puri', 'query': 'sims 4'}
 Youtube	FindQueryOnChannel	{'channel_id': 'rubymusic', 'query': 'prestige'}
-Youtube	FindQueryOnChannel	{'channel_id': 'channely', 'query': 'tylko nie mów nikomu premiera'}
+Youtube	FindQueryOnChannel	{'channel_id': 'travely', 'query': 'tylko nie mów nikomu premiera'}
 Youtube	FindQueryOnChannel	{'channel_id': 'channel scout', 'query': 'moje słońce'}
 Youtube	FindQueryOnChannel	{'channel_id': 'diy league', 'query': 'sony'}
 Youtube	FindQueryOnChannel	{'channel_id': 'quanti', 'query': 'leh'}
 Youtube	FindQueryOnChannel	{'channel_id': 'nomadicfamily', 'query': 'białyje nosy'}
-Youtube	FindQueryOnChannel	{'channel_id': 'i', 'query': 'odpasujące'}
+Youtube	FindQueryOnChannel	{'channel_id': 'inlovewithfood', 'query': 'police'}
 Youtube	FindQueryOnChannel	{'channel_id': 'goldmines', 'query': 'sekielski'}
 Youtube	FindQueryOnChannel	{'channel_id': 'healthylivinglifestyle', 'query': 'ślepnąc od świateł'}
 Youtube	FindQueryOnChannel	{'channel_id': 'marshmello', 'query': 'beka ksh'}
@@ -6855,7 +6855,7 @@ Youtube	FindQueryOnChannel	{'channel_id': 'chick flick', 'query': 'kabe'}
 Youtube	FindQueryOnChannel	{'channel_id': 'funny follies', 'query': 'pewdiepie'}
 Youtube	FindQueryOnChannel	{'channel_id': 'bloxy award winner', 'query': 'abs'}
 Youtube	FindQueryOnChannel	{'channel_id': 'follow your heart', 'query': 'szpaku'}
-Youtube	FindQueryOnChannel	{'channel_id': 'vatsu pasujące', 'query': 'fanat'}
+Youtube	FindQueryOnChannel	{'channel_id': 'watts up', 'query': 'best life'}
 Youtube	FindQueryOnChannel	{'channel_id': 'ladies love life', 'query': 'perfect lumix remix'}
 Youtube	FindQueryOnChannel	{'channel_id': 'beautybuff', 'query': 'tylko ty'}
 Youtube	FindQueryOnChannel	{'channel_id': 'cookingconnoisseur', 'query': 'jacuzzi na 42'}
@@ -6885,12 +6885,12 @@ Youtube	FindQueryOnChannel	{'channel_id': 'oh mama', 'query': 'milano'}
 Youtube	FindQueryOnChannel	{'channel_id': 'prettypawsome', 'query': 'hemingway'}
 Youtube	FindQueryOnChannel	{'channel_id': 'fitforall', 'query': 'fire emblem three houses'}
 Youtube	FindQueryOnChannel	{'channel_id': 'just a guy', 'query': 'noom diet'}
-Youtube	FindQueryOnChannel	{'channel_id': 'mapas', 'query': 'tylko ten'}
-Youtube	FindQueryOnChannel	{'channel_id': 'bilu który', 'query': 'not'}
-Youtube	FindQueryOnChannel	{'channel_id': 'nam spasujące'}
-Youtube	FindQueryOnChannel	{'channel_id': 'obcakę', 'query': 'zapach perfumnat'}
-Youtube	FindQueryOnChannel	{'channel_id': 'leczure', 'query': 'ewa hodakowska'}
-Youtube	FindQueryOnChannel	{'channel_id': 'reeflaw', 'query': 'piosenki świąteczna'}
+Youtube	FindQueryOnChannel	{'channel_id': 'mrbeast', 'query': 'tylko ty'}
+Youtube	FindQueryOnChannel	{'channel_id': 'grown girl', 'query': 'fnaf'}
+Youtube	FindQueryOnChannel	{'channel_id': 'youtube names', 'query': 'ból'}
+Youtube	FindQueryOnChannel	{'channel_id': 'noobcake', 'query': 'zapach perfum'}
+Youtube	FindQueryOnChannel	{'channel_id': 'australianaventures', 'query': 'ewa chodakowska'}
+Youtube	FindQueryOnChannel	{'channel_id': 'reviewflavor', 'query': 'piosenki świąteczne'}
 Youtube	FindQueryOnChannel	{'channel_id': 'dynamo', 'query': 'kotki'}
 Youtube	FindQueryOnChannel	{'channel_id': 'unlimited gardening', 'query': 'notre dame fire'}
 Youtube	FindQueryOnChannel	{'channel_id': 'the rich club', 'query': 'lexy'}
@@ -6968,7 +6968,7 @@ Youtube	FindQueryOnChannel	{'channel_id': 'fun times', 'query': 'znajdź kawałk
 Youtube	FindQueryOnChannel	{'channel_id': 'decima', 'query': 'safari'}
 Youtube	FindQueryOnChannel	{'channel_id': 'meadowand', 'query': 'typowy dres'}
 Youtube	FindQueryOnChannel	{'channel_id': 'the cool cash club', 'query': 'kaczuszki'}
-Youtube	FindQueryOnChannel	{'channel_id': 'handlach', 'query': 'got'}
+Youtube	FindQueryOnChannel	{'channel_id': 'techandoak', 'query': 'kot'}
 Youtube	FindQueryOnChannel	{'channel_id': 'blastnutri', 'query': 'lidokaina'}
 Youtube	FindQueryOnChannel	{'channel_id': 'zeal', 'query': 'odwiedź 5 najwyższych miejsc na wyspie'}
 Youtube	FindQueryOnChannel	{'channel_id': 'beautybuff', 'query': 'odyn'}
@@ -7005,7 +7005,7 @@ Youtube	FindQueryOnChannel	{'channel_id': 'tree', 'query': 'wybory'}
 Youtube	FindQueryOnChannel	{'channel_id': 'clima', 'query': 'shark'}
 Youtube	FindQueryOnChannel	{'channel_id': 'cookthisagain', 'query': 'reklama haribo'}
 Youtube	FindQueryOnChannel	{'channel_id': 'nerdforlife', 'query': 'cyberpunk 2077 trailer pl'}
-Youtube	FindQueryOnChannel	{'channel_id': 'w', 'query': 'do ażprospiecznej'}
+Youtube	FindQueryOnChannel	{'channel_id': 'verdan', 'query': 'express biedrzyckiej'}
 Youtube	FindQueryOnChannel	{'channel_id': 'farmly', 'query': 'marsz równości białystok'}
 Youtube	FindQueryOnChannel	{'channel_id': 'wish', 'query': 'liverpool vs barcelona'}
 Youtube	FindQueryOnChannel	{'channel_id': 'youtube dork', 'query': 'mamy cię doda'}
@@ -7042,12 +7042,12 @@ Youtube	FindQueryOnChannel	{'channel_id': 'game it', 'query': 'gural'}
 Youtube	FindQueryOnChannel	{'channel_id': 'roblox zone', 'query': 'nightcore'}
 Youtube	FindQueryOnChannel	{'channel_id': 'sassy and chill', 'query': 'camila cabello liar'}
 Youtube	FindQueryOnChannel	{'channel_id': 'the good life', 'query': 'eluwina'}
-Youtube	FindQueryOnChannel	{'channel_id': 'w asiom', 'query': 'do bloga'}
+Youtube	FindQueryOnChannel	{'channel_id': 'fashion matters', 'query': 'blok ekip'}
 Youtube	FindQueryOnChannel	{'channel_id': 'cheats haven', 'query': 'lumi minecraft'}
-Youtube	FindQueryOnChannel	{'channel_id': 'na', 'query': 'do'}
-Youtube	FindQueryOnChannel	{'channel_id': 'alki', 'query': 'ftkiller na autobo'}
-Youtube	FindQueryOnChannel	{'channel_id': 'kporgfin u które pasuje', 'query': 'na utubu'}
-Youtube	FindQueryOnChannel	{'channel_id': 'tele', 'query': 'pomiterowa'}
+Youtube	FindQueryOnChannel	{'channel_id': 'dynafamily', 'query': 'pitbull'}
+Youtube	FindQueryOnChannel	{'channel_id': 'alti', 'query': 'jeff the killer'}
+Youtube	FindQueryOnChannel	{'channel_id': 'keep your twin up', 'query': 'la rosa de quadalupe'}
+Youtube	FindQueryOnChannel	{'channel_id': 'tela', 'query': 'pomidorowa'}
 Youtube	NextVideo	{}
 Youtube	NextVideo	{}
 Youtube	NextVideo	{}
@@ -7099,7 +7099,7 @@ Youtube	OpenYT	{}
 Youtube	OpenYT	{}
 Youtube	ShowChannelWithCategory	{'category': 'muzyka'}
 Youtube	ShowChannelWithCategory	{'category': 'komedie'}
-Youtube	ShowChannelWithName	{'channel_id': 'pasjącaza'}
+Youtube	ShowChannelWithName	{'channel_id': 'fashion craze'}
 Youtube	ShowChannelWithName	{'channel_id': 'nest'}
 Youtube	ShowChannelWithName	{'channel_id': 'bewatch'}
 Youtube	ShowChannelWithName	{'channel_id': 'gleam'}
@@ -7135,167 +7135,167 @@ Airconditioner	GetHumidity	{}
 Airconditioner	GetTemperatureFromDevice	{'device_name': 'dormitorio'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
 Airconditioner	SetTemperatureToValue	{'value': '24 grados celsius'}
-Airconditioner	SetTemperatureToValue	{'value': 'tu enteónegado ser'}
-Airconditioner	SetTemperatureToValue	{'value': 'lleven grados celsius'}
+Airconditioner	SetTemperatureToValue	{'value': '21 grados celsius'}
+Airconditioner	SetTemperatureToValue	{'value': '11 grados celsius'}
 Airconditioner	SetTemperatureToValue	{'value': '20 grados'}
-Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'cocina', 'value': 'grados'}
-Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'en', 'value': 'entina y niegrados'}
+Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'cocina', 'value': '28 grados'}
+Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'corredor', 'value': '29 grados celsius'}
 Airconditioner	SetTemperatureToValueOnDevice	{'device_name': 'salón', 'value': '25 grados'}
 Calendar	AddEventWithName	{'event_name': 'el vuelo a cuba'}
-Calendar	CheckCalendarOnDate	{'date': 'próximo lunes'}
+Calendar	CheckCalendarOnDate	{'date': 'el próximo lunes'}
 Calendar	NotifyOnEventStart	{}
 Contacts	OpenMyContact	{}
 Contacts	OpenMyContact	{}
-Contacts	ShowContactWithEmail	{'email': 'electrónico'}
-Contacts	ShowContactWithEmail	{'email': 'y'}
-Contacts	ShowContactWithName	{'name': 'juan asturicoeta'}
-Contacts	ShowContactWithNumber	{'phone_number': 'turci fomie e idun'}
-Contacts	ShowContactWithNumber	{'phone_number': '914-185-694'}
-Contacts	ShowContactWithNumberAndWithEmail	{'email': 'koksja', 'phone_number': 'tuo dretretreundre ninetiexitsundre'}
-Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': 'i 247-26-363-4-12-18-ecorego elektroniko karadu'}
-Contacts	ShowContactWithNumberAndWithEmail	{}
+Contacts	ShowContactWithEmail	{'email': 'mariví@yahoo.es'}
+Contacts	ShowContactWithEmail	{'email': 'ivi@mail.com'}
+Contacts	ShowContactWithName	{'name': 'juan azpilicueta'}
+Contacts	ShowContactWithNumber	{'phone_number': '+34 832 202 583'}
+Contacts	ShowContactWithNumber	{'phone_number': '949 885 694'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'x.jeane@ch.etn.com', 'phone_number': '203 398 607'}
+Contacts	ShowContactWithNumberAndWithEmail	{'email': 'carla.duby@schwab.com', 'phone_number': '+34 326 363 430'}
+Contacts	ShowContactWithNumberAndWithEmail	{'phone_number': '899 639 386'}
 Email	OpenEmail	{}
-Email	ReplyToEmailFromAddress	{}
-Email	SendEmailToAddress	{'to': 'a'}
-Email	SendEmailToAddress	{'to': 'mayeros esquíbelo'}
+Email	ReplyToEmailFromAddress	{'to': 'chio'}
+Email	SendEmailToAddress	{'to': 'rafi@zoho.mail.eu'}
+Email	SendEmailToAddress	{'to': 'marielos esquivel'}
 Email	SendEmailToAddress	{'to': 'carmela'}
-Email	SendEmailToAddress	{'to': 'txusando'}
-Email	SendEmailToAddressWithSubject	{'subject': 'el título final', 'to': 'josé'}
-Email	SendEmailToAddressWithSubject	{'subject': 'prises digito link suprir', 'to': 'prequistice'}
-Email	SendEmailToAddressWithSubject	{'subject': 'kum titulado', 'to': 'uot'}
-Email	SendEmailToAddressWithSubject	{'subject': '1220 ovidas', 'to': 'evangelin'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'pues está bien en plena burbuja del big data', 'subject': 'tim mesa redonda', 'to': 'leandro'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': '4px para vi niña unidades en juego', 'subject': 'eres el único que no ha visto esto', 'to': 'chucha'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'dice hermosa tarde de paseo por lima y baladero con mi', 'subject': 'de ser el único que no ha visto', 'to': 'gertrudez'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hay chicas difíciles solo hay hombres sin mastercard', 'subject': 'energy corporation pérate que', 'to': 'con'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'lunes estoy con todas las pilas', 'subject': 'rechiche con a best actor oscar diciendo por', 'to': 'patirmail'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'a visitarla con mi mejor nos vimos', 'subject': 'corre mob-20 subject que diga', 'to': 'a diarrate'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'diciendo hacía mucho que no bloqueaba', 'subject': 'proton confiturado la familia andirón', 'to': 'a'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'escribe me cambiaste de humor', 'subject': 'recorriji joe on it next week', 'to': 'a'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'los más días como el de hoy', 'subject': 'y el aire de las personas ignoran', 'to': 'conviciendo'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'que no se moja el culo no come pescado', 'subject': 'constructivo y', 'to': 'en gracia'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'pos boja intentara kosmirme jagnitez titulado tose', 'subject': 'te horidas usando mig', 'to': 'ti'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'no se pero escuchar música y cantar me la resube', 'subject': 'de andikari y su sin partners', 'to': 'teodoro'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'diga quiero estar con mi mama y', 'subject': 'ospedo de la test de', 'to': 'a'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'de lo de juaní y enviálo', 'subject': 'vellebetis no reputable que dice'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'más aburrido que un nido gordo con un plato de verduras', 'subject': 'reback con biotech investin que'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'penes a todos y', 'subject': 'belleve y diznot reputable diciendo', 'to': 'protoncom'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'ya mañana empiezo a camillarles', 'subject': 'título conferencia caitopique', 'to': 'pilipamay'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'en la primera que me diga algo no lo pienso dos veces', 'subject': 'lunch', 'to': 'abel'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'digan estos días los condones tienen más sabores que el helado', 'subject': 'titulado filler la doctrina'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'diciendo hoy me voy a dormir tal de jack no tengo', 'subject': 'subscripción rené', 'to': 'a'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'que diga ojalá b es mille de fuerzas', 'subject': 'con titulado fí de terminé tomó', 'to': 'josana'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'diciendo surfeando la', 'subject': 'último día tu entio de descuento en nuestros', 'to': 'pabín'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hoy va a ser un domingo de mucho estudio', 'subject': 'hizo crédito ya antes', 'to': 'guerrero titulado'}
-Email	SendEmailToAddressWithSubjectAndWithMessage	{'subject': 'con el tema piasele metnosifio agré que', 'to': 'la'}
+Email	SendEmailToAddress	{'to': 'chuy'}
+Email	SendEmailToAddressWithSubject	{'subject': 'final cpuc order', 'to': 'josé@gmx.es'}
+Email	SendEmailToAddressWithSubject	{'subject': 'prices by withholding supply', 'to': 'precy57@aol.com'}
+Email	SendEmailToAddressWithSubject	{'subject': 'constructive plan', 'to': 'cher@hotmail.com'}
+Email	SendEmailToAddressWithSubject	{'subject': 'those working the holidays', 'to': 'evangelin'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'pues se está bien en plena burbuja del big data', 'subject': 'tw mesa redonda', 'to': 'leandro'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': '4 picks para hoy y 9 unidades en juego', 'subject': 'Eres el único que no ha visto esto', 'to': 'chucha'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hermosa tarde de paseo por lima y baradero con mi papá', 'subject': 'Eres el único que no ha visto esto', 'to': 'gertrudis'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'no hay chicas difíciles solo hay hombres sin mastercard', 'subject': 'mountian energy corporation update', 'to': 'genita'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'por ser lunes estoy con todas las pilas', 'subject': 're which he won a best actor oscar', 'to': 'pati@gmail.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'me fui a visitarla con mi mejor nos vimos', 'subject': 'word remove in the subject', 'to': 'de arrate'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hacía mucho que no bloqueaba gente', 'subject': 'la famiglia and byron brands', 'to': 'mada@proton.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'uh me cambiaste de humor', 'subject': 're working with you on it next week', 'to': 'arcenio'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'quiero mas dias como el de hoy', 'subject': 'El 80% de las personas ignoran que…', 'to': 'curra@gmail.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'quien no se moja el culo no come pescado', 'subject': 'constructive plan', 'to': 'maría engracia'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'pos voy a intentar acosmirme ya gnites', 'subject': 'those working the holidays', 'to': 'tanti'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'nose pero escuchar musica y cantar me la re sube', 'subject': 're and hikari tsushin partners ii', 'to': 'teodoro'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'quiero estar con mi mama y abrazarla', 'subject': 'speed on the latest developments', 'to': 'rolando'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'resien llego de lo de juanii', 'subject': 'believe it is not reputable', 'to': 'catina.artiñano@mail.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'estoy mas aburrido que un niño gordo con un plato de verduras', 'subject': 're back on biotech investing', 'to': 'chavi.uriarte@proton.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'buenos penes a todos', 'subject': 'believe it is not reputable', 'to': 'mujica@proton.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'ya mañana empieso a camellarles', 'subject': 'conference call topic', 'to': 'philippa@mail.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'en la primera que me diga algo no lo pienso dos veces', 'subject': 'lunch', 'to': 'laurel@proton.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'en estos días los condones tienen mas sabores que el helado', 'subject': 'filed rate doctrine cases', 'to': 'rendell vargas'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hoy me voy a dormir tarde ya q no tengo colee', 'subject': 'subscription renewal', 'to': 'merola@texaco.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'ojala vea el dm y le de fuerzas', 'subject': 'fwd determined to move a bill', 'to': 'josan@proton.com'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'surfiando la internet', 'subject': 'Último día, 20% de descuento en nuestros productos', 'to': 'pablín'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'hoy va a ser un domingo de mucho estudio', 'subject': 'sell to creditworthy parties', 'to': 'mayka guerrero'}
+Email	SendEmailToAddressWithSubjectAndWithMessage	{'message': 'diegi carbien no te ras de mi', 'subject': 'please let me know if you agree', 'to': 'marugenia.gabarain@yahoo.es'}
 Email	ShowEmailWithLabel	{'label': 'notificaciones'}
 Email	ShowEmailWithPriority	{'priority': 'no importantes'}
 Email	ShowEmailWithPriority	{'priority': 'no importantes'}
-Email	ShowEmailWithSubject	{'subject': 'titulados conoces los tres motivos para no vender tu'}
-Email	ShowEmailWithSubject	{'subject': 'lea baito y joe rescretión'}
-Email	ShowEmailWithSubject	{'subject': 'protect consumers atacos'}
-Email	ShowEmailWithSubject	{'subject': 'tema final poohcorder'}
+Email	ShowEmailWithSubject	{'subject': '¿Conoces los 10 motivos para no vender tu auto?'}
+Email	ShowEmailWithSubject	{'subject': 'leave it to your discretion'}
+Email	ShowEmailWithSubject	{'subject': 'protect consumers at any cost'}
+Email	ShowEmailWithSubject	{'subject': 'final cpuc order'}
 Facebook	PostPictureWithCaption	{'caption': 'el más importante de mi vida'}
 Facebook	PostPictureWithCaption	{'caption': 'en egipto'}
 Facebook	PostPictureWithUrl	{}
-Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'en colombia', 'picture_url': 'sorturra2600'}
-Facebook	PostStatus	{'status': 'me habla una mina en inglés chupamela'}
+Facebook	PostPictureWithUrlAndWithCaption	{'caption': 'en colombia', 'picture_url': 'shorturl.at/6L0RWEo'}
+Facebook	PostStatus	{'status': 'me habla una mina en ingles chupamela'}
 Facebook	ShowAlbumWithName	{'album': 'vacaciones'}
-Fitbit	ShowStepsOnDate	{'date': 'de diciembre de 2020 en'}
-Gdrive	ShareFileWithNameToAddress	{'file_name': 'de undead forte', 'mail': 'fibe'}
-Gdrive	ShareFileWithNameToAddress	{'file_name': 'filebase-hitromycon'}
+Fitbit	ShowStepsOnDate	{'date': 'el 9 de diciembre 2020'}
+Gdrive	ShareFileWithNameToAddress	{'file_name': 'hkm314 b5 h', 'mail': 'lourditas@mail.com'}
+Gdrive	ShareFileWithNameToAddress	{'file_name': 'firebase', 'mail': 'ro@mail.com'}
 Gdrive	SortReverseAlphabetical	{}
-Instagram	ShowPicturesWithFilter	{}
-Instagram	ShowPicturesWithHashtag	{'hashtag': 'media'}
+Instagram	ShowPicturesWithFilter	{'filter': 'moon'}
+Instagram	ShowPicturesWithHashtag	{'hashtag': 'newyears'}
 News	NotifyWhenPortalUpdates	{'portal': 'faro de vigo'}
-News	NotifyWhenPortalUpdates	{'portal': 'ocliario'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'país', 'section': 'salud'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'periódico', 'section': 'política'}
-News	NotifyWhenPortalUpdatesInSection	{'portal': 'mundo', 'section': 'política'}
-News	ShowNewsFromSection	{'portal': 'del país', 'section': 'de'}
+News	NotifyWhenPortalUpdates	{'portal': 'ok diario'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'el país', 'section': 'salud'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'el periódico', 'section': 'política'}
+News	NotifyWhenPortalUpdatesInSection	{'portal': 'el mundo', 'section': 'política'}
+News	ShowNewsFromSection	{'portal': 'el país', 'section': 'deporte'}
 News	ShowNewsFromSection	{'portal': 'marca', 'section': 'política'}
-Phone	SMSToContactWithMessage	{'message': 'yo peso el chapezo y hasmaí y camiama y'}
-Slack	SendPictureWithUrlToChannel	{'channel': 'tifibeta finansios', 'picture_url': 'latin'}
+Phone	SMSToContactWithMessage	{'message': 'medio peso el chape soy jaz mai y cami', 'to': 'maica yarritu'}
+Slack	SendPictureWithUrlToChannel	{'channel': 'financios bangkok', 'picture_url': 'shorturl.at/m0ww65t'}
 Speaker	IncreaseVolume	{}
-Spotify	AddAlbumToPlaylist	{'album': 'retunto o se entera la lista de reproducción', 'playlist': 'metalcore classics'}
-Spotify	AddSongToPlaylistWithName	{'playlist': 'clientes'}
-Spotify	CreatePlaylistWithName	{'playlist': 'neoclassicalonger'}
-Spotify	PlayAlbumOfTypeByArtist	{'album': 'nečione'}
-Spotify	PlayAlbumOfTypeByArtist	{'album': 'yo in mon migalle te'}
-Spotify	PlayPlaylist	{}
-Spotify	PlaySong	{'song': 'γράδε ρεπρόδουσε'}
-Spotify	PlaySong	{}
-Spotify	PlaySongByArtist	{'artist': 'damolintrabartolo', 'song': 'ciege'}
-Spotify	PlaySongByArtist	{'artist': 'erde prosolar', 'song': 'a freete en'}
-Spotify	PlaySongByArtist	{'song': 'a no morir montobrea te'}
-Spotify	PlaySongByArtist	{'artist': 'zerkzes', 'song': 'me come nando'}
-Spotify	PlaySongByArtist	{'artist': 'i', 'song': 'mama donetó me deú'}
-Spotify	PlaySongByArtist	{'artist': 'simpli ready', 'song': 'o juiz'}
-Spotify	PlaySongByArtist	{'artist': 'que', 'song': 'pista mola sevillaje'}
-Spotify	PlaySongByArtist	{'artist': 'de enrico', 'song': 'mitse'}
-Spotify	PlaySongByArtist	{'song': 'recópleme de'}
-Spotify	PlaySongByArtist	{'artist': 'rub', 'song': 'llevestante'}
-Spotify	PlaySongByArtist	{'artist': 'en el', 'song': 'urtac body de'}
-Spotify	PlaySongByArtist	{'artist': 'alparse', 'song': 'iris en rumos en destino'}
-Spotify	PlaySongByArtist	{'artist': 'destriar', 'song': 'llega'}
-Translate	TranslateTextFromLanguage	{'src_lang': 'francés', 'text': 'club soda'}
-Translate	TranslateTextFromLanguage	{'src_lang': 'japones', 'text': 'martes'}
-Translate	TranslateTextFromLanguage	{'src_lang': 'de', 'text': 'frase quiero alquilar un'}
-Translate	TranslateTextFromLanguageToLanguage	{'src_lang': 'japonés', 'text': 'a benziein en zafre', 'trg_lang': 'checo'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang': 've', 'text': 'y llévame y por', 'translator': 'de', 'trg_lang': 'a'}
-Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang': 'francés', 'text': 'melosidad permitida', 'translator': 'yandex', 'trg_lang': 'checo'}
-Translate	TranslateTextToLanguage	{'text': 'ich bäste vas nič', 'trg_lang': 'finlandes'}
-Twitter	SendMessageToUser	{'message': 'tarde de bicicleteada con mi prima', 'username': 'increí'}
-Twitter	ShowTwittsWithHashtag	{'hashtag': 'stania'}
-Twitter	ShowTwittsWithHashtag	{'hashtag': 'pusim'}
-Websearch	SearchImagesWithTextOnEngine	{'img_query': 'que'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'kan jaman'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'mille bobidu nu'}
+Spotify	AddAlbumToPlaylist	{'album': 'return to center a la lista de reproducción', 'playlist': 'metalcore classics'}
+Spotify	AddSongToPlaylistWithName	{'playlist': 'slightly haunted'}
+Spotify	CreatePlaylistWithName	{'playlist': 'neo classical lounge'}
+Spotify	PlayAlbumOfTypeByArtist	"{'album': 'kiss kiss kill kill', 'artist': ""in '91""}"
+Spotify	PlayAlbumOfTypeByArtist	"{'album': ""tokyo i'm on my way"", 'artist': 'the pebbles'}"
+Spotify	PlayPlaylist	{'playlist': 'late night'}
+Spotify	PlaySong	{'song': 'svjetla grada'}
+Spotify	PlaySong	{'song': 'van como locos'}
+Spotify	PlaySongByArtist	{'artist': 'damon intrabartolo', 'song': 'siege'}
+Spotify	PlaySongByArtist	{'artist': 'prosolar mechanics', 'song': 'a free thinker'}
+Spotify	PlaySongByArtist	{'artist': 'aasma', 'song': 'no more room to breath'}
+Spotify	PlaySongByArtist	{'artist': 'xerxes', 'song': 'women and dope'}
+Spotify	PlaySongByArtist	{'artist': 'hummmr', 'song': 'mama done told me'}
+Spotify	PlaySongByArtist	{'artist': 'simply red', 'song': 'o juiz'}
+Spotify	PlaySongByArtist	{'artist': 'caparezza', 'song': 'moon lake village'}
+Spotify	PlaySongByArtist	{'artist': 'enrico sognato', 'song': 'nuitsheuan'}
+Spotify	PlaySongByArtist	{'artist': 'myriads', 'song': 'recycle me'}
+Spotify	PlaySongByArtist	{'artist': 'xavier rudd', 'song': 'liebesdank'}
+Spotify	PlaySongByArtist	{'artist': 'the design', 'song': 'hurt that body'}
+Spotify	PlaySongByArtist	{'artist': 'alphawezen', 'song': 'iris em rumo sem destino'}
+Spotify	PlaySongByArtist	{'artist': 'adestria', 'song': 'spielmannslied'}
+Translate	TranslateTextFromLanguage	{'src_lang': 'fránces', 'text': 'club soda'}
+Translate	TranslateTextFromLanguage	{'src_lang': 'japonés', 'text': 'martes'}
+Translate	TranslateTextFromLanguage	{'src_lang': 'russo', 'text': 'quiero alquilar un coche'}
+Translate	TranslateTextFromLanguageToLanguage	{'src_lang': 'japonés', 'text': 'haben sie einen safe', 'trg_lang': 'checo'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang': 'inglés', 'text': 'lléveme ahí por favor', 'translator': 'google', 'trg_lang': 'tailandés'}
+Translate	TranslateTextFromLanguageToLanguageWithEngine	{'src_lang': 'fránces', 'text': 'velocidad permitida', 'translator': 'yandex', 'trg_lang': 'checo'}
+Translate	TranslateTextToLanguage	{'text': 'ich verstehe das nicht', 'trg_lang': 'finlandés'}
+Twitter	SendMessageToUser	{'message': 'tarde de bicicleteada con mi prima', 'username': 'inc3'}
+Twitter	ShowTwittsWithHashtag	{'hashtag': 'naperfectworld'}
+Twitter	ShowTwittsWithHashtag	{'hashtag': 'pushkin'}
+Websearch	SearchImagesWithTextOnEngine	{'img_query': 'oxford'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'can yaman'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'millie bobby brown'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'costa brava mapa'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'rosa'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'uvas verano tuenti'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'con'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'uñas verano 2019'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'tabaco'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'taburete'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'twitter'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'joaquín pónix josé'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'con hijas de'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'joaquin phoenix joker'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeight	{'img_query': 'hijas de zapatero'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'frases para instagram'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'la'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'mine'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'software'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'calendario julio 20 niñeten para'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dibujos kakai'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'adjetivos en inglés'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'de alcázar de'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'grafomotricidad'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'minecraft'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'sofa'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'calendario julio 2019 para imprimir'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'dibujos kawaii'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'adjetivos en ingles'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'alcazar de sevilla'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'fracciones'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'reflejos en el pelo'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'sugaps uzan'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bo'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'suga bts'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'hbo'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'panda rojo'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'regalo'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'raúl braúl'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'stokusando'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'auri'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bebés'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'raul bravo'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'stock'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'audi'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'bebes'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'diabetes'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'leverenduc tuco'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'últimas fotos de carmen lomana'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'nieve png'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'ultimas fotos de carmen lomana'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'harry potter dibujos'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'torra del'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'thor ragnarok'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'logo telefono'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'la diga'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'lady gaga'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'princesa margarita'}
 Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'frases para instagram cortas'}
-Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kobe brian du'}
-Websearch	SearchTextOnEngine	{'txt_query': 'o'}
-Websearch	SearchTextOnEngine	{'txt_query': 'escozando'}
+Websearch	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition	{'img_query': 'kobe bryant muere'}
+Websearch	SearchTextOnEngine	{'txt_query': 'outlook'}
+Websearch	SearchTextOnEngine	{'txt_query': 'banesco'}
 Websearch	SearchTextOnEngine	{'txt_query': 'loterias'}
-Yelp	SearchByReviewCount	{'review_count': '50%'}
-Yelp	SearchByReviewCount	{'review_count': 'te'}
-Youtube	FindQuery	{'query': 'na parede um'}
-Youtube	FindQuery	{'query': 'youtube'}
-Youtube	FindQueryOnChannel	{'channel_id': 'cinemasins'}
-Youtube	FindQueryOnChannel	{'channel_id': 'teancoco que', 'query': 'no se de ellos'}
+Yelp	SearchByReviewCount	{'review_count': '5000'}
+Yelp	SearchByReviewCount	{'review_count': '3500'}
+Youtube	FindQuery	{'query': 'la pared 360'}
+Youtube	FindQuery	{'query': 'pio pio'}
+Youtube	FindQueryOnChannel	{'channel_id': 'cineamasin'}
+Youtube	FindQueryOnChannel	{'channel_id': 'team coco', 'query': 'no sere yo zetazen'}
 Airconditioner	ChangeTemperature	{}
 Airconditioner	ChangeTemperature	{}
 Airconditioner	ChangeTemperature	{}
@@ -7348,7 +7348,7 @@ Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'cocina'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
-Airconditioner	SetTemperatureOnDevice	{'device_name': 'cocina'}
+Airconditioner	SetTemperatureOnDevice	{'device_name': 'termostato'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'cocina'}
@@ -7358,7 +7358,7 @@ Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'cocina'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
-Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
+Airconditioner	SetTemperatureOnDevice	{'device_name': 'termostato'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'dormitorio'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'salón'}
 Airconditioner	SetTemperatureOnDevice	{'device_name': 'corredor'}
@@ -9183,7 +9183,7 @@ Phone	ShowSMS	{}
 Slack	CheckChannelHistory	{}
 Slack	CheckLastMessages	{}
 Slack	CheckMessagesFromUser	{'sender': 'josema mendoza'}
-Slack	CheckMessagesInChannel	{'channel': 'ankara'}
+Slack	CheckMessagesInChannel	{'channel': 'slack'}
 Slack	CheckUserStatus	{'username': 'tonino arrieta'}
 Slack	OpenSlack	{}
 Slack	SendMessageToChannel	{'channel': 'beijing', 'message': 'que lindo quilombo que tengo en mi cabeza'}
@@ -9191,9 +9191,9 @@ Slack	SendPictureToChannel	{'channel': 'costes'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'el viaje a londres', 'channel': 'event company picnic'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'si obedeces todas las reglas te perderás toda la diversión', 'channel': 'engineering'}
 Slack	SendPictureToChannelWithCaption	{'caption': 'pasando tiempo con ana', 'channel': 'exec ama'}
-Slack	SetPurposeOnChannel	{'channel': 'onboarding people', 'purpose': 'coco'}
+Slack	SetPurposeOnChannel	{}
 Slack	SetStatusAway	{}
-Slack	SetTopicInChannel	{'channel': 'river water', 'topic': 'clean'}
+Slack	SetTopicInChannel	{}
 Speaker	DecreaseVolume	{}
 Speaker	DecreaseVolumeByPercent	{'percent': '65'}
 Speaker	DecreaseVolumeByPercent	{'percent': '55'}
@@ -9786,8 +9786,8 @@ Twitter	ShowTwittsWithHashtag	{'hashtag': 'tg4g'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'tetris'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'squarepsace'}
 Twitter	ShowTwittsWithHashtag	{'hashtag': 'wahlimweb'}
-Twitter	UnfollowUser	{'username': 'pique'}
-Weather	MoonphaseInLocation	{'location': 'madrid'}
+Twitter	UnfollowUser	{}
+Weather	MoonphaseInLocation	{}
 Weather	MoonphaseInLocationOnDate	{'date': 'el miércoles', 'location': 'campelles'}
 Weather	MoonphaseInLocationOnDate	{'date': 'dentro de 2 horas', 'location': 'sayalonga'}
 Weather	OpenWeather	{}
@@ -10634,8 +10634,8 @@ Yelp	SearchByRatingInLocation	{'location': 'barx', 'rating': '4'}
 Yelp	SearchByReviewCountInLocation	{'category': 'alemana cerca de', 'location': 'alcantarilla', 'review_count': '200'}
 Yelp	SearchByReviewCountInLocation	{'category': 'francesa cerca de', 'location': 'medinaceli', 'review_count': '750'}
 Yelp	SearchByReviewCountInLocation	{'category': 'italiana cerca de', 'location': 'berrocal', 'review_count': '400'}
-Yelp	SearchInLocation	{'location': 'huelva'}
-Yelp	SearchInLocation	{'location': 'huelva'}
+Yelp	SearchInLocation	{}
+Yelp	SearchInLocation	{}
 Yelp	SearchRestaurant	{}
 Youtube	FindChannelWithQuery	{'query': 'besame david bisbal y juan magan'}
 Youtube	FindQuery	{'query': 'mana y pablo alboran'}
