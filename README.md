@@ -20,8 +20,8 @@ The approach used to prepare data for the challenge is meant to promote models r
 - Feb  13, 2023: Training data available (English)
 - Feb  20, 2023: Training data available (other languages)
 - May  17, 2023: Test data available
-- June 14, 2023: Deadline for submitting the results
-- June 16, 2023: Announcement of the final results, sending invitations for submitting papers
+- June ~~14~~21, 2023: Deadline for submitting the results
+- June ~~16~~23, 2023: Announcement of the final results, sending invitations for submitting papers
 - July 09, 2023: Deadline for submitting invited papers
 - July 16, 2023: Author notification
 - July 31, 2023: Final paper submission, registration
@@ -113,7 +113,7 @@ Baseline is also submitted to Gonito platform where detailed results can be foun
 
  6. If it turns out that the solutions submitted by two different teams have the same score, the team that submitted the solution earlier would be ranked higher.
 
- 7. To be included in the final ranking, a team should provide a report describing their solution.
+ 7. To be included in the final ranking, a team should provide a report describing their solution. The report has to be commited together with a submission as a cnlps-report.pdf file in root directory of submission repository.
 
  8. The report should conform to the requirements specified in the exemplary document provided at <https://github.com/kubapok/cnlps-caiccaic/blob/master/cnlps-report-example.pdf>.
 
@@ -168,3 +168,6 @@ To do so, [get geval executable](https://gitlab.com/filipg/geval/#the-easy-way-j
 For news regarding dataset updates, baseline results and other changes, please join “CNLPS” Discord server: <https://discord.gg/VvjHhh7rbF>.
 
 It is also the place to ask questions about the challenge and usage of the Gonito platform.
+
+## Deadline changes ##
+Submission deadlines have been extended by one week. Please check [Dates](#Dates) section above.
