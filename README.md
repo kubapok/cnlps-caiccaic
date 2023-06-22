@@ -171,4 +171,4 @@ It is also the place to ask questions about the challenge and usage of the Gonit
 
 ## Deadline changes ##
 - Submission deadlines have been extended by one week. Please check [Dates](#Dates) section above.
-- For technical reasons we won't release test-B subser and test-A is treated as an official evaluation set.
+- For technical problems with evaluation platform we will not release release test-B subset and test-A is treated as an official evaluation set used to construct final ranking.
