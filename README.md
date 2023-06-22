@@ -170,4 +170,5 @@ For news regarding dataset updates, baseline results and other changes, please j
 It is also the place to ask questions about the challenge and usage of the Gonito platform.
 
 ## Deadline changes ##
-Submission deadlines have been extended by one week. Please check [Dates](#Dates) section above.
+- Submission deadlines have been extended by one week. Please check [Dates](#Dates) section above.
+- For technical reasons we won't release test-B subser and test-A is treated as an official evaluation set.
