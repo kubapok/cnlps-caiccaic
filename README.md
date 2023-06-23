@@ -172,3 +172,26 @@ It is also the place to ask questions about the challenge and usage of the Gonit
 ## Deadline changes ##
 - Submission deadlines have been extended by one week. Please check [Dates](#Dates) section above.
 - For technical problems with evaluation platform we will not release release test-B subset and test-A is treated as an official evaluation set used to construct final ranking.
+
+
+# Results
+Detailed results can be found on https://gonito.csi.wmi.amu.edu.pl/challenge/cnlps-caiccaic/leaderboar
+
+Table below presents official ranking with cumulative metrics for all languages.
+We wish to thank all of participants for their submissions and congratulate the winners!
+We will contact authors of best submissions with details regarding preparing publications describing their submissions.
+
+
+ | # | submitter | description | test-A Slot WRR | test-A Intent accuracy | test-A Domain accuracy | **test-A Exact Match Accuracy** | 
+ |---|-----------|-------------|-----------------|------------------------|------------------------|-----------------------------|
+ | 1 | s444386 | mbart-large-50 | 0.871575841 | 0.915910407 | 0.962927206 | **0.753716934** | 
+ | 2 | s444476 | flanT5-large | 0.80490086 | 0.921992663 | 0.968816374 | **0.688743001** | 
+ | 3 | Task oranizers | Official baseline prepared by task authors. See task description for details. | 0.752192709 | 0.945356246 | 0.980305078 | **0.682371114** | 
+ | 4 | ked | flan-t5-large with language code extra context | 0.770025356 | 0.897567098 | 0.954527901 | **0.665282873** | 
+ | 5 | s444415 | Flan-t5-large | 0.737934905 | 0.822166441 | 0.93097123 | **0.569318401** | 
+ | 6 | s443930 | flan-t5-2nd-try | 0.691565864 | 0.898242904 | 0.958196563 | **0.49275922** | 
+ | 7 | s478873 | transformer t5 | 0.626241842 | 0.866190384 | 0.948831821 | **0.46147905** | 
+ | 8 | Martyna Druminska | dfd | 0.626740658 | 0.674840703 | 0.959065457 | **0.44622514** | 
+ | 9 | s478839 | flan-t5-base | 0.623914037 | 0.849488318 | 0.944970071 | **0.44313574** | 
+ | 10 | Mikołaj Pokrywka | all done | 0.451365507 | 0.581675999 | 0.926240587 | **0.331145009** | 
+
